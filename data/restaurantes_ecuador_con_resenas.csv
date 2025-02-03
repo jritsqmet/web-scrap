@@ -1,0 +1,1001 @@
+ID de Reseña,Nombre del Restaurante,Ubicación,Fecha de la Reseña,Calificación,Título de la Reseña,Contenido de la Reseña,Usuario,Fuente
+1,Café Andino,Ambato,2025-01-04,5,No me gustó,La comida es deliciosa y el servicio excelente.,LuisCocinero,Yelp
+2,Café Andino,Guayaquil,2024-10-10,1,Muy bueno,"Pésima experiencia, no volveré jamás.",DanielaTraveler,Google Reviews
+3,Vegan Life,Machala,2024-10-19,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,AlejandraT,TripAdvisor
+4,Mariscos del Pacífico,Ibarra,2024-03-11,1,No me gustó,Comida horrible y atención pésima.,LuisCocinero,Google Reviews
+5,La Parrilla de Pepe,Loja,2024-05-18,2,Excelente,"No me gustó mucho, esperaba más.",JuanPerez123,Yelp
+6,Café Andino,Quito,2024-06-02,2,Excelente,"No me gustó mucho, esperaba más.",AlejandraT,Google Reviews
+7,La Parrilla de Pepe,Guayaquil,2024-11-06,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,Yelp
+8,Asadero Don Pedro,Manta,2024-10-07,3,Excelente,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PedroFan,Google Reviews
+9,Asadero Don Pedro,Esmeraldas,2024-03-31,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PedroFan,Google Reviews
+10,Vegan Life,Manta,2024-06-06,3,No me gustó,"La comida estaba bien, pero nada especial.",AlejandraT,Yelp
+11,Café Andino,Loja,2024-11-04,2,Regular,"No me gustó mucho, esperaba más.",DanielaTraveler,TripAdvisor
+12,Asadero Don Pedro,Guayaquil,2024-08-09,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",FoodieEcuador,Yelp
+13,La Pizzería Italiana,Loja,2024-09-17,4,Excelente,Buen ambiente y platos de calidad.,DanielaTraveler,Google Reviews
+14,Café Andino,Riobamba,2024-10-03,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",JuanPerez123,Yelp
+15,Comida Típica Quiteña,Manta,2024-09-01,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",LuisCocinero,Yelp
+16,La Pizzería Italiana,Machala,2025-01-14,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,Yelp
+17,Asadero Don Pedro,Ibarra,2024-03-11,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",AndresCoffeeLover,TripAdvisor
+18,Sushi Express,Loja,2024-06-26,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",DanielaTraveler,Yelp
+19,La Pizzería Italiana,Esmeraldas,2024-04-16,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,Yelp
+20,Comida Típica Quiteña,Riobamba,2024-03-12,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",DanielaTraveler,Google Reviews
+21,Café Andino,Machala,2024-06-03,2,Excelente,Servicio lento y comida regular.,JuanPerez123,Google Reviews
+22,Restaurante El Sabor,Ambato,2024-07-21,2,Muy bueno,Servicio lento y comida regular.,AlejandraT,Google Reviews
+23,Vegan Life,Quito,2024-08-09,2,Excelente,Servicio lento y comida regular.,AndresCoffeeLover,Google Reviews
+24,La Parrilla de Pepe,Manta,2024-12-16,2,Pésima experiencia,La relación calidad-precio no es buena.,CarlaSeafoodFan,Yelp
+25,Sushi Express,Ambato,2024-07-22,2,Muy bueno,"No me gustó mucho, esperaba más.",FoodieEcuador,Google Reviews
+26,El Rincón Mexicano,Ibarra,2024-04-12,2,Regular,La relación calidad-precio no es buena.,JuanPerez123,Yelp
+27,La Pizzería Italiana,Loja,2024-12-08,4,No me gustó,"Muy buena comida y servicio, aunque algo costoso.",CarlaSeafoodFan,Google Reviews
+28,Café Andino,Ibarra,2024-11-16,2,Pésima experiencia,"No me gustó mucho, esperaba más.",JuanPerez123,Google Reviews
+29,La Parrilla de Pepe,Manta,2024-05-08,3,Excelente,"La comida estaba bien, pero nada especial.",AlejandraT,TripAdvisor
+30,El Rincón Mexicano,Guayaquil,2024-05-03,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,Google Reviews
+31,Café Andino,Machala,2024-02-09,1,Regular,Esperaba mucho más y fue una decepción total.,JuanPerez123,TripAdvisor
+32,Asadero Don Pedro,Manta,2024-12-14,1,Muy bueno,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,Google Reviews
+33,Restaurante El Sabor,Loja,2024-03-29,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,MariaGourmet,Google Reviews
+34,Vegan Life,Ambato,2024-06-24,2,Excelente,La relación calidad-precio no es buena.,PedroFan,Google Reviews
+35,Asadero Don Pedro,Esmeraldas,2025-01-13,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,TripAdvisor
+36,Comida Típica Quiteña,Esmeraldas,2025-01-11,4,Pésima experiencia,Buen ambiente y platos de calidad.,MariaGourmet,TripAdvisor
+37,Mariscos del Pacífico,Guayaquil,2024-06-15,1,No me gustó,"Pésima experiencia, no volveré jamás.",CarlaSeafoodFan,Yelp
+38,Restaurante El Sabor,Ibarra,2024-08-20,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",FoodieEcuador,Google Reviews
+39,Asadero Don Pedro,Riobamba,2024-06-04,3,Regular,"Servicio promedio, esperaba algo más.",DanielaTraveler,Google Reviews
+40,La Pizzería Italiana,Guayaquil,2024-07-20,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",PabloEats,Google Reviews
+41,Mariscos del Pacífico,Manta,2024-07-26,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",DanielaTraveler,TripAdvisor
+42,La Parrilla de Pepe,Quito,2024-07-07,2,No me gustó,La relación calidad-precio no es buena.,MariaGourmet,Yelp
+43,Asadero Don Pedro,Loja,2024-03-30,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,TripAdvisor
+44,Restaurante El Sabor,Ambato,2024-06-06,3,Excelente,"La comida estaba bien, pero nada especial.",PabloEats,Yelp
+45,Sushi Express,Quito,2024-06-25,3,Regular,"La comida estaba bien, pero nada especial.",AndresCoffeeLover,Google Reviews
+46,Café Andino,Ibarra,2024-04-30,2,Muy bueno,Servicio lento y comida regular.,CarlaSeafoodFan,Yelp
+47,La Pizzería Italiana,Guayaquil,2024-11-28,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,Google Reviews
+48,Sushi Express,Ambato,2024-03-14,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,Yelp
+49,La Pizzería Italiana,Ibarra,2024-09-15,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,Google Reviews
+50,Vegan Life,Riobamba,2024-04-13,4,Excelente,Buen ambiente y platos de calidad.,DanielaTraveler,Yelp
+51,Sushi Express,Guayaquil,2024-03-20,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",JuanPerez123,TripAdvisor
+52,La Pizzería Italiana,Quito,2024-12-05,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",AlejandraT,Yelp
+53,Vegan Life,Loja,2024-09-28,2,Excelente,"No me gustó mucho, esperaba más.",JuanPerez123,TripAdvisor
+54,La Pizzería Italiana,Loja,2024-09-26,2,No me gustó,La relación calidad-precio no es buena.,PedroFan,TripAdvisor
+55,Comida Típica Quiteña,Manta,2024-03-01,4,Regular,"Muy buena comida y servicio, aunque algo costoso.",AlejandraT,Google Reviews
+56,El Rincón Mexicano,Machala,2024-02-04,1,Excelente,Esperaba mucho más y fue una decepción total.,CarlaSeafoodFan,Google Reviews
+57,Mariscos del Pacífico,Cuenca,2025-02-01,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",AlejandraT,TripAdvisor
+58,Asadero Don Pedro,Manta,2024-12-08,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",FoodieEcuador,Google Reviews
+59,Café Andino,Esmeraldas,2024-08-12,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,TripAdvisor
+60,El Rincón Mexicano,Quito,2024-08-28,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",AlejandraT,Google Reviews
+61,Mariscos del Pacífico,Guayaquil,2024-10-03,3,Muy bueno,"La comida estaba bien, pero nada especial.",PedroFan,Yelp
+62,El Rincón Mexicano,Loja,2024-09-23,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",LuisCocinero,TripAdvisor
+63,Comida Típica Quiteña,Riobamba,2024-09-14,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",CarlaSeafoodFan,Yelp
+64,El Rincón Mexicano,Ibarra,2024-09-12,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",PedroFan,TripAdvisor
+65,El Rincón Mexicano,Machala,2024-08-10,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",FoodieEcuador,TripAdvisor
+66,Restaurante El Sabor,Quito,2024-04-03,1,Excelente,Esperaba mucho más y fue una decepción total.,LuisCocinero,TripAdvisor
+67,La Parrilla de Pepe,Ambato,2024-10-06,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,MariaGourmet,TripAdvisor
+68,Sushi Express,Cuenca,2024-04-02,5,Excelente,"Altamente recomendado, volveré pronto.",AlejandraT,Google Reviews
+69,Asadero Don Pedro,Loja,2024-05-17,1,Regular,Esperaba mucho más y fue una decepción total.,AlejandraT,TripAdvisor
+70,Mariscos del Pacífico,Ibarra,2024-11-16,4,Regular,Buen ambiente y platos de calidad.,AndresCoffeeLover,Google Reviews
+71,Vegan Life,Ambato,2025-01-29,5,Excelente,La comida es deliciosa y el servicio excelente.,PabloEats,TripAdvisor
+72,Asadero Don Pedro,Quito,2024-10-19,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Yelp
+73,El Rincón Mexicano,Guayaquil,2024-09-12,1,Muy bueno,Esperaba mucho más y fue una decepción total.,JuanPerez123,Google Reviews
+74,La Pizzería Italiana,Machala,2024-04-09,1,Excelente,Comida horrible y atención pésima.,PedroFan,Yelp
+75,La Parrilla de Pepe,Guayaquil,2024-08-31,2,Excelente,"No me gustó mucho, esperaba más.",AlejandraT,TripAdvisor
+76,Restaurante El Sabor,Esmeraldas,2024-03-16,5,Regular,La comida es deliciosa y el servicio excelente.,AndresCoffeeLover,TripAdvisor
+77,Restaurante El Sabor,Cuenca,2025-01-09,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,TripAdvisor
+78,Vegan Life,Manta,2024-02-05,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",FoodieEcuador,Google Reviews
+79,Asadero Don Pedro,Esmeraldas,2024-09-12,5,Regular,La comida es deliciosa y el servicio excelente.,PabloEats,TripAdvisor
+80,Restaurante El Sabor,Cuenca,2024-12-14,5,Excelente,La comida es deliciosa y el servicio excelente.,FoodieEcuador,Google Reviews
+81,La Pizzería Italiana,Quito,2024-08-23,1,No me gustó,Esperaba mucho más y fue una decepción total.,DanielaTraveler,TripAdvisor
+82,El Rincón Mexicano,Ibarra,2024-06-19,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,Yelp
+83,Restaurante El Sabor,Ibarra,2025-01-12,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",FoodieEcuador,Yelp
+84,Sushi Express,Cuenca,2024-07-26,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",PabloEats,Yelp
+85,Comida Típica Quiteña,Guayaquil,2024-10-22,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",AndresCoffeeLover,Google Reviews
+86,El Rincón Mexicano,Riobamba,2024-02-24,2,Pésima experiencia,Servicio lento y comida regular.,MariaGourmet,Yelp
+87,El Rincón Mexicano,Cuenca,2024-07-18,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",JuanPerez123,Yelp
+88,Sushi Express,Ambato,2024-03-13,4,Regular,Buen ambiente y platos de calidad.,JuanPerez123,Yelp
+89,La Pizzería Italiana,Cuenca,2024-02-17,5,Pésima experiencia,"Increíble experiencia, todo estuvo perfecto.",FoodieEcuador,TripAdvisor
+90,Vegan Life,Loja,2024-08-15,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",JuanPerez123,Google Reviews
+91,La Pizzería Italiana,Cuenca,2025-01-06,4,Regular,Buen ambiente y platos de calidad.,PedroFan,TripAdvisor
+92,Comida Típica Quiteña,Riobamba,2024-11-19,2,Muy bueno,Servicio lento y comida regular.,AlejandraT,Yelp
+93,Vegan Life,Machala,2024-04-12,3,No me gustó,"La comida estaba bien, pero nada especial.",CarlaSeafoodFan,Yelp
+94,Asadero Don Pedro,Riobamba,2024-02-20,1,Muy bueno,"No lo recomiendo para nada, muy mala experiencia.",AlejandraT,Yelp
+95,Sushi Express,Riobamba,2024-03-13,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",FoodieEcuador,Google Reviews
+96,La Pizzería Italiana,Machala,2024-08-02,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,Yelp
+97,Vegan Life,Cuenca,2024-07-26,4,Pésima experiencia,"Muy buena comida y servicio, aunque algo costoso.",AlejandraT,Google Reviews
+98,La Parrilla de Pepe,Ibarra,2024-05-30,1,Muy bueno,Comida horrible y atención pésima.,FoodieEcuador,Google Reviews
+99,La Parrilla de Pepe,Quito,2024-11-03,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Google Reviews
+100,Comida Típica Quiteña,Manta,2024-07-18,3,No me gustó,"La comida estaba bien, pero nada especial.",AlejandraT,TripAdvisor
+101,Vegan Life,Esmeraldas,2025-01-18,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,Yelp
+102,Comida Típica Quiteña,Quito,2024-03-09,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,Yelp
+103,Comida Típica Quiteña,Loja,2024-02-16,1,Regular,"No lo recomiendo para nada, muy mala experiencia.",LuisCocinero,Yelp
+104,Restaurante El Sabor,Quito,2024-09-01,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",LuisCocinero,Google Reviews
+105,Café Andino,Esmeraldas,2024-11-08,5,Muy bueno,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,Yelp
+106,Asadero Don Pedro,Quito,2024-09-21,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",LuisCocinero,TripAdvisor
+107,La Parrilla de Pepe,Ambato,2024-12-08,5,Muy bueno,"Altamente recomendado, volveré pronto.",JuanPerez123,Yelp
+108,Asadero Don Pedro,Manta,2024-05-15,1,Muy bueno,"Pésima experiencia, no volveré jamás.",AlejandraT,Yelp
+109,Sushi Express,Quito,2025-01-10,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",FoodieEcuador,Yelp
+110,La Parrilla de Pepe,Ambato,2024-02-18,2,Regular,"No me gustó mucho, esperaba más.",AndresCoffeeLover,Google Reviews
+111,El Rincón Mexicano,Ambato,2024-02-21,2,No me gustó,La relación calidad-precio no es buena.,CarlaSeafoodFan,Yelp
+112,Sushi Express,Guayaquil,2024-03-23,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",PabloEats,TripAdvisor
+113,Vegan Life,Cuenca,2024-09-08,3,Regular,"La comida estaba bien, pero nada especial.",PedroFan,TripAdvisor
+114,Comida Típica Quiteña,Guayaquil,2024-09-23,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",DanielaTraveler,TripAdvisor
+115,Mariscos del Pacífico,Quito,2024-07-12,4,Muy bueno,Buen ambiente y platos de calidad.,CarlaSeafoodFan,Google Reviews
+116,Vegan Life,Riobamba,2024-06-13,5,Excelente,La comida es deliciosa y el servicio excelente.,MariaGourmet,TripAdvisor
+117,La Pizzería Italiana,Machala,2024-12-23,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,AlejandraT,TripAdvisor
+118,La Pizzería Italiana,Ibarra,2025-01-19,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",FoodieEcuador,Google Reviews
+119,La Pizzería Italiana,Guayaquil,2024-02-23,1,Regular,"No lo recomiendo para nada, muy mala experiencia.",MariaGourmet,Google Reviews
+120,Sushi Express,Machala,2024-02-25,1,No me gustó,Esperaba mucho más y fue una decepción total.,MariaGourmet,TripAdvisor
+121,Vegan Life,Machala,2024-08-01,1,No me gustó,Esperaba mucho más y fue una decepción total.,AlejandraT,Yelp
+122,Restaurante El Sabor,Ibarra,2024-06-10,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,Google Reviews
+123,La Pizzería Italiana,Manta,2024-12-16,2,No me gustó,Servicio lento y comida regular.,CarlaSeafoodFan,TripAdvisor
+124,Mariscos del Pacífico,Loja,2024-06-01,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,PabloEats,Yelp
+125,Restaurante El Sabor,Loja,2024-10-22,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",AndresCoffeeLover,TripAdvisor
+126,Asadero Don Pedro,Cuenca,2024-10-23,3,Excelente,"No estuvo mal, pero tampoco lo recomendaría especialmente.",FoodieEcuador,Google Reviews
+127,Comida Típica Quiteña,Loja,2024-08-11,3,Muy bueno,"La comida estaba bien, pero nada especial.",CarlaSeafoodFan,Yelp
+128,Comida Típica Quiteña,Quito,2024-11-14,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",AndresCoffeeLover,Google Reviews
+129,Restaurante El Sabor,Ambato,2024-10-20,2,No me gustó,"No me gustó mucho, esperaba más.",PedroFan,Yelp
+130,Sushi Express,Guayaquil,2024-02-29,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",MariaGourmet,Yelp
+131,Comida Típica Quiteña,Loja,2024-06-20,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",JuanPerez123,TripAdvisor
+132,El Rincón Mexicano,Loja,2024-05-24,5,Regular,"Altamente recomendado, volveré pronto.",LuisCocinero,Google Reviews
+133,La Pizzería Italiana,Quito,2024-07-06,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,Yelp
+134,La Pizzería Italiana,Quito,2024-10-13,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,Google Reviews
+135,Asadero Don Pedro,Esmeraldas,2024-12-19,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,DanielaTraveler,TripAdvisor
+136,Asadero Don Pedro,Machala,2025-01-27,2,Regular,Servicio lento y comida regular.,PedroFan,Yelp
+137,Sushi Express,Loja,2024-09-06,5,No me gustó,"Altamente recomendado, volveré pronto.",JuanPerez123,TripAdvisor
+138,La Pizzería Italiana,Riobamba,2024-09-24,1,Pésima experiencia,Comida horrible y atención pésima.,AlejandraT,Google Reviews
+139,Comida Típica Quiteña,Esmeraldas,2024-03-26,5,Regular,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,TripAdvisor
+140,Sushi Express,Manta,2024-11-08,3,Muy bueno,"Servicio promedio, esperaba algo más.",LuisCocinero,Google Reviews
+141,Mariscos del Pacífico,Esmeraldas,2024-10-22,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,AlejandraT,TripAdvisor
+142,Sushi Express,Ibarra,2025-01-23,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",CarlaSeafoodFan,Google Reviews
+143,Comida Típica Quiteña,Riobamba,2024-05-26,2,Excelente,Servicio lento y comida regular.,DanielaTraveler,Yelp
+144,El Rincón Mexicano,Quito,2024-11-25,2,No me gustó,"No me gustó mucho, esperaba más.",AndresCoffeeLover,TripAdvisor
+145,La Parrilla de Pepe,Loja,2024-04-12,2,No me gustó,Servicio lento y comida regular.,AlejandraT,Yelp
+146,Asadero Don Pedro,Guayaquil,2024-09-18,1,Muy bueno,"No lo recomiendo para nada, muy mala experiencia.",CarlaSeafoodFan,TripAdvisor
+147,La Pizzería Italiana,Loja,2024-02-05,1,No me gustó,"Pésima experiencia, no volveré jamás.",AndresCoffeeLover,Google Reviews
+148,Mariscos del Pacífico,Esmeraldas,2025-01-27,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",JuanPerez123,Google Reviews
+149,Sushi Express,Loja,2024-05-27,2,Excelente,"No me gustó mucho, esperaba más.",PedroFan,TripAdvisor
+150,La Pizzería Italiana,Ambato,2024-11-06,1,No me gustó,Comida horrible y atención pésima.,AndresCoffeeLover,Google Reviews
+151,Sushi Express,Loja,2025-01-14,1,Regular,Comida horrible y atención pésima.,AndresCoffeeLover,Yelp
+152,La Pizzería Italiana,Cuenca,2024-12-19,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",AlejandraT,Yelp
+153,Mariscos del Pacífico,Cuenca,2024-09-06,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,CarlaSeafoodFan,TripAdvisor
+154,La Parrilla de Pepe,Cuenca,2024-09-22,2,Excelente,La relación calidad-precio no es buena.,PedroFan,Yelp
+155,Comida Típica Quiteña,Loja,2024-05-15,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",PedroFan,Yelp
+156,Restaurante El Sabor,Guayaquil,2024-03-12,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",DanielaTraveler,Google Reviews
+157,La Parrilla de Pepe,Guayaquil,2024-07-15,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,TripAdvisor
+158,El Rincón Mexicano,Machala,2024-12-12,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",LuisCocinero,Yelp
+159,La Parrilla de Pepe,Manta,2024-02-27,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,TripAdvisor
+160,El Rincón Mexicano,Riobamba,2024-03-07,4,No me gustó,"Muy buena comida y servicio, aunque algo costoso.",AndresCoffeeLover,Yelp
+161,El Rincón Mexicano,Cuenca,2024-02-11,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,Google Reviews
+162,Restaurante El Sabor,Riobamba,2025-01-29,1,Regular,"No lo recomiendo para nada, muy mala experiencia.",PabloEats,TripAdvisor
+163,Mariscos del Pacífico,Loja,2024-05-04,2,Regular,La relación calidad-precio no es buena.,MariaGourmet,TripAdvisor
+164,Café Andino,Ibarra,2024-12-27,5,Muy bueno,La comida es deliciosa y el servicio excelente.,AndresCoffeeLover,Google Reviews
+165,El Rincón Mexicano,Loja,2024-09-27,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",FoodieEcuador,Yelp
+166,Vegan Life,Manta,2024-04-30,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",AndresCoffeeLover,TripAdvisor
+167,La Pizzería Italiana,Machala,2024-11-11,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",LuisCocinero,Google Reviews
+168,Asadero Don Pedro,Quito,2024-03-09,1,Regular,Comida horrible y atención pésima.,PedroFan,Yelp
+169,Vegan Life,Machala,2024-06-18,5,Regular,La comida es deliciosa y el servicio excelente.,JuanPerez123,TripAdvisor
+170,Café Andino,Ambato,2024-05-21,2,No me gustó,"No me gustó mucho, esperaba más.",AlejandraT,TripAdvisor
+171,El Rincón Mexicano,Esmeraldas,2024-05-31,1,No me gustó,"Pésima experiencia, no volveré jamás.",LuisCocinero,Google Reviews
+172,La Parrilla de Pepe,Quito,2024-09-04,3,Excelente,"Servicio promedio, esperaba algo más.",PedroFan,TripAdvisor
+173,Sushi Express,Loja,2024-12-08,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",PedroFan,TripAdvisor
+174,Comida Típica Quiteña,Ambato,2024-12-12,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",DanielaTraveler,Google Reviews
+175,Sushi Express,Manta,2024-03-06,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,Google Reviews
+176,Asadero Don Pedro,Cuenca,2024-06-19,4,No me gustó,"Me gustó mucho, aunque hubo algo de demora.",LuisCocinero,TripAdvisor
+177,La Parrilla de Pepe,Ambato,2024-06-20,3,Regular,"Servicio promedio, esperaba algo más.",JuanPerez123,Google Reviews
+178,El Rincón Mexicano,Machala,2024-05-07,1,Muy bueno,"Pésima experiencia, no volveré jamás.",MariaGourmet,Yelp
+179,Café Andino,Riobamba,2024-09-04,1,No me gustó,Esperaba mucho más y fue una decepción total.,LuisCocinero,TripAdvisor
+180,Sushi Express,Cuenca,2024-12-24,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",FoodieEcuador,Google Reviews
+181,Vegan Life,Machala,2024-12-20,1,No me gustó,Comida horrible y atención pésima.,AlejandraT,TripAdvisor
+182,Vegan Life,Manta,2024-09-06,1,Excelente,"Pésima experiencia, no volveré jamás.",JuanPerez123,Yelp
+183,Comida Típica Quiteña,Ibarra,2024-11-30,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",JuanPerez123,Google Reviews
+184,Vegan Life,Ambato,2024-06-14,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",PedroFan,Google Reviews
+185,Vegan Life,Ambato,2024-09-23,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",PabloEats,Yelp
+186,El Rincón Mexicano,Esmeraldas,2024-10-27,2,Regular,La relación calidad-precio no es buena.,JuanPerez123,Yelp
+187,La Pizzería Italiana,Esmeraldas,2024-03-23,1,Excelente,Comida horrible y atención pésima.,CarlaSeafoodFan,Yelp
+188,Restaurante El Sabor,Cuenca,2024-03-29,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,LuisCocinero,TripAdvisor
+189,El Rincón Mexicano,Riobamba,2024-02-14,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",DanielaTraveler,Yelp
+190,Restaurante El Sabor,Esmeraldas,2024-11-25,5,No me gustó,La comida es deliciosa y el servicio excelente.,DanielaTraveler,Google Reviews
+191,Café Andino,Loja,2024-12-02,2,Muy bueno,Servicio lento y comida regular.,LuisCocinero,Yelp
+192,Asadero Don Pedro,Guayaquil,2024-03-20,2,Pésima experiencia,Servicio lento y comida regular.,MariaGourmet,Yelp
+193,La Pizzería Italiana,Loja,2024-02-27,5,Excelente,"Altamente recomendado, volveré pronto.",FoodieEcuador,TripAdvisor
+194,Sushi Express,Guayaquil,2025-01-05,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",DanielaTraveler,Yelp
+195,Mariscos del Pacífico,Guayaquil,2024-07-29,1,Muy bueno,Comida horrible y atención pésima.,DanielaTraveler,Yelp
+196,Asadero Don Pedro,Esmeraldas,2024-09-23,5,Excelente,"Altamente recomendado, volveré pronto.",PabloEats,Yelp
+197,La Parrilla de Pepe,Ibarra,2024-10-28,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",DanielaTraveler,TripAdvisor
+198,Mariscos del Pacífico,Ibarra,2024-05-30,4,No me gustó,Buen ambiente y platos de calidad.,PedroFan,Google Reviews
+199,El Rincón Mexicano,Ibarra,2024-09-19,3,Muy bueno,"Servicio promedio, esperaba algo más.",AlejandraT,Yelp
+200,Comida Típica Quiteña,Manta,2025-01-30,2,Regular,"No me gustó mucho, esperaba más.",CarlaSeafoodFan,Yelp
+201,Asadero Don Pedro,Guayaquil,2024-09-17,5,Excelente,"Altamente recomendado, volveré pronto.",LuisCocinero,TripAdvisor
+202,Vegan Life,Manta,2024-02-13,2,No me gustó,"No me gustó mucho, esperaba más.",PabloEats,Yelp
+203,Sushi Express,Guayaquil,2024-07-13,5,Excelente,La comida es deliciosa y el servicio excelente.,PedroFan,Yelp
+204,El Rincón Mexicano,Riobamba,2024-04-29,3,Excelente,"La comida estaba bien, pero nada especial.",LuisCocinero,TripAdvisor
+205,Mariscos del Pacífico,Ibarra,2025-01-31,2,Excelente,"No me gustó mucho, esperaba más.",PabloEats,Google Reviews
+206,Mariscos del Pacífico,Machala,2024-06-21,5,Regular,"Altamente recomendado, volveré pronto.",MariaGourmet,TripAdvisor
+207,La Pizzería Italiana,Quito,2024-04-17,5,Regular,"Altamente recomendado, volveré pronto.",FoodieEcuador,TripAdvisor
+208,La Parrilla de Pepe,Cuenca,2024-06-05,1,Regular,"Pésima experiencia, no volveré jamás.",MariaGourmet,Yelp
+209,Comida Típica Quiteña,Machala,2024-06-20,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,CarlaSeafoodFan,Yelp
+210,La Parrilla de Pepe,Machala,2024-07-14,3,Regular,"La comida estaba bien, pero nada especial.",PedroFan,TripAdvisor
+211,Café Andino,Machala,2024-02-28,3,Regular,"La comida estaba bien, pero nada especial.",DanielaTraveler,Google Reviews
+212,Café Andino,Riobamba,2024-02-28,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,Google Reviews
+213,Vegan Life,Riobamba,2024-11-04,1,Regular,Comida horrible y atención pésima.,DanielaTraveler,TripAdvisor
+214,La Parrilla de Pepe,Cuenca,2024-08-09,1,No me gustó,Esperaba mucho más y fue una decepción total.,MariaGourmet,Yelp
+215,La Parrilla de Pepe,Manta,2024-04-12,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,TripAdvisor
+216,Mariscos del Pacífico,Loja,2024-02-23,1,Regular,"Pésima experiencia, no volveré jamás.",FoodieEcuador,TripAdvisor
+217,La Pizzería Italiana,Manta,2024-09-19,1,Excelente,"Pésima experiencia, no volveré jamás.",AndresCoffeeLover,TripAdvisor
+218,Sushi Express,Quito,2024-03-17,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",PabloEats,Yelp
+219,Comida Típica Quiteña,Machala,2024-02-07,3,No me gustó,"La comida estaba bien, pero nada especial.",AlejandraT,TripAdvisor
+220,Mariscos del Pacífico,Quito,2025-01-15,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,Yelp
+221,Mariscos del Pacífico,Ambato,2024-10-08,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",JuanPerez123,Yelp
+222,Restaurante El Sabor,Riobamba,2024-10-05,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",MariaGourmet,TripAdvisor
+223,Café Andino,Esmeraldas,2024-09-29,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",FoodieEcuador,Yelp
+224,Comida Típica Quiteña,Ambato,2024-10-16,3,Regular,"La comida estaba bien, pero nada especial.",JuanPerez123,TripAdvisor
+225,Mariscos del Pacífico,Ibarra,2024-12-20,3,No me gustó,"Servicio promedio, esperaba algo más.",DanielaTraveler,Google Reviews
+226,Comida Típica Quiteña,Ibarra,2024-11-06,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",PedroFan,Yelp
+227,La Pizzería Italiana,Manta,2024-02-14,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",AlejandraT,TripAdvisor
+228,Vegan Life,Manta,2024-08-01,1,Regular,Esperaba mucho más y fue una decepción total.,DanielaTraveler,Yelp
+229,La Parrilla de Pepe,Cuenca,2024-11-03,2,Regular,"No me gustó mucho, esperaba más.",AlejandraT,TripAdvisor
+230,Café Andino,Loja,2025-01-04,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,AlejandraT,Yelp
+231,Restaurante El Sabor,Machala,2024-03-26,3,Muy bueno,"Servicio promedio, esperaba algo más.",MariaGourmet,Google Reviews
+232,Restaurante El Sabor,Loja,2025-01-26,3,Excelente,"Servicio promedio, esperaba algo más.",JuanPerez123,Yelp
+233,Sushi Express,Guayaquil,2024-09-24,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",MariaGourmet,TripAdvisor
+234,La Parrilla de Pepe,Esmeraldas,2024-03-31,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",LuisCocinero,Google Reviews
+235,Vegan Life,Machala,2024-10-02,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",AndresCoffeeLover,TripAdvisor
+236,Comida Típica Quiteña,Cuenca,2024-06-11,2,Muy bueno,La relación calidad-precio no es buena.,AndresCoffeeLover,Yelp
+237,El Rincón Mexicano,Ambato,2024-12-05,3,Excelente,"Servicio promedio, esperaba algo más.",CarlaSeafoodFan,Yelp
+238,Mariscos del Pacífico,Machala,2024-05-31,1,No me gustó,"Pésima experiencia, no volveré jamás.",MariaGourmet,TripAdvisor
+239,Vegan Life,Quito,2024-12-28,1,Regular,"Pésima experiencia, no volveré jamás.",JuanPerez123,TripAdvisor
+240,El Rincón Mexicano,Guayaquil,2024-12-21,3,Muy bueno,"Servicio promedio, esperaba algo más.",CarlaSeafoodFan,Google Reviews
+241,La Pizzería Italiana,Quito,2024-12-17,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,Yelp
+242,La Pizzería Italiana,Quito,2024-08-18,3,Excelente,"La comida estaba bien, pero nada especial.",MariaGourmet,Yelp
+243,La Pizzería Italiana,Quito,2025-01-23,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Google Reviews
+244,Mariscos del Pacífico,Loja,2024-12-26,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",PedroFan,TripAdvisor
+245,Vegan Life,Esmeraldas,2024-10-30,1,Regular,Comida horrible y atención pésima.,PedroFan,Google Reviews
+246,El Rincón Mexicano,Loja,2024-10-25,1,Pésima experiencia,Comida horrible y atención pésima.,PedroFan,Google Reviews
+247,Restaurante El Sabor,Ambato,2024-10-24,4,Regular,Buen ambiente y platos de calidad.,JuanPerez123,TripAdvisor
+248,Comida Típica Quiteña,Guayaquil,2024-02-18,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",CarlaSeafoodFan,Yelp
+249,Vegan Life,Machala,2024-11-16,2,Pésima experiencia,"No me gustó mucho, esperaba más.",AlejandraT,Yelp
+250,La Parrilla de Pepe,Loja,2024-08-30,4,Regular,"Muy buena comida y servicio, aunque algo costoso.",DanielaTraveler,Google Reviews
+251,Comida Típica Quiteña,Ambato,2025-01-08,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",JuanPerez123,Google Reviews
+252,Sushi Express,Ibarra,2024-09-26,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",PabloEats,TripAdvisor
+253,Asadero Don Pedro,Ibarra,2024-04-13,5,Excelente,La comida es deliciosa y el servicio excelente.,MariaGourmet,Yelp
+254,Café Andino,Riobamba,2024-04-17,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",PedroFan,TripAdvisor
+255,Sushi Express,Quito,2024-02-26,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",PabloEats,Yelp
+256,La Pizzería Italiana,Loja,2024-05-28,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,MariaGourmet,TripAdvisor
+257,Vegan Life,Ibarra,2024-07-10,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",AlejandraT,Google Reviews
+258,Restaurante El Sabor,Manta,2024-08-16,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",FoodieEcuador,TripAdvisor
+259,Café Andino,Guayaquil,2024-09-22,4,Pésima experiencia,Buen ambiente y platos de calidad.,FoodieEcuador,Google Reviews
+260,El Rincón Mexicano,Manta,2024-03-10,4,No me gustó,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,TripAdvisor
+261,Café Andino,Loja,2024-11-10,3,Muy bueno,"Servicio promedio, esperaba algo más.",LuisCocinero,Google Reviews
+262,La Parrilla de Pepe,Cuenca,2024-05-13,4,Regular,Buen ambiente y platos de calidad.,FoodieEcuador,Google Reviews
+263,Asadero Don Pedro,Esmeraldas,2024-09-10,1,Muy bueno,Esperaba mucho más y fue una decepción total.,DanielaTraveler,TripAdvisor
+264,El Rincón Mexicano,Manta,2024-04-03,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",LuisCocinero,Yelp
+265,Mariscos del Pacífico,Manta,2025-01-12,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",CarlaSeafoodFan,Google Reviews
+266,Mariscos del Pacífico,Loja,2024-08-16,2,No me gustó,La relación calidad-precio no es buena.,LuisCocinero,TripAdvisor
+267,Comida Típica Quiteña,Guayaquil,2024-11-18,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,PabloEats,Yelp
+268,Asadero Don Pedro,Manta,2024-05-28,5,Excelente,"Altamente recomendado, volveré pronto.",DanielaTraveler,Yelp
+269,Sushi Express,Loja,2024-08-02,1,No me gustó,"Pésima experiencia, no volveré jamás.",MariaGourmet,Yelp
+270,Sushi Express,Cuenca,2025-01-18,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",JuanPerez123,TripAdvisor
+271,La Parrilla de Pepe,Ambato,2024-03-07,2,No me gustó,"No me gustó mucho, esperaba más.",MariaGourmet,Google Reviews
+272,Asadero Don Pedro,Ibarra,2024-02-10,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",DanielaTraveler,TripAdvisor
+273,Comida Típica Quiteña,Loja,2024-10-11,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",CarlaSeafoodFan,Yelp
+274,Vegan Life,Cuenca,2024-03-20,2,Excelente,"No me gustó mucho, esperaba más.",JuanPerez123,Google Reviews
+275,La Pizzería Italiana,Quito,2024-02-18,5,Regular,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,Google Reviews
+276,Vegan Life,Riobamba,2024-08-26,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,Google Reviews
+277,Sushi Express,Ambato,2024-12-19,1,Regular,Comida horrible y atención pésima.,PabloEats,Google Reviews
+278,El Rincón Mexicano,Loja,2024-08-07,3,Regular,"Un restaurante aceptable, sin destacar demasiado.",AndresCoffeeLover,TripAdvisor
+279,Vegan Life,Riobamba,2024-02-09,3,Regular,"Servicio promedio, esperaba algo más.",PabloEats,Yelp
+280,La Parrilla de Pepe,Ibarra,2024-06-09,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",AndresCoffeeLover,TripAdvisor
+281,Comida Típica Quiteña,Machala,2024-11-14,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",AndresCoffeeLover,Yelp
+282,La Pizzería Italiana,Cuenca,2024-03-04,1,Excelente,Esperaba mucho más y fue una decepción total.,AlejandraT,Yelp
+283,La Pizzería Italiana,Riobamba,2024-08-27,3,Regular,"No estuvo mal, pero tampoco lo recomendaría especialmente.",CarlaSeafoodFan,TripAdvisor
+284,Vegan Life,Esmeraldas,2024-11-03,2,Regular,"No me gustó mucho, esperaba más.",JuanPerez123,Google Reviews
+285,Café Andino,Riobamba,2024-08-27,5,Excelente,"Altamente recomendado, volveré pronto.",DanielaTraveler,Google Reviews
+286,Asadero Don Pedro,Guayaquil,2024-06-12,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",PedroFan,Google Reviews
+287,Café Andino,Esmeraldas,2024-09-09,3,No me gustó,"La comida estaba bien, pero nada especial.",AlejandraT,Google Reviews
+288,El Rincón Mexicano,Loja,2024-05-06,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",DanielaTraveler,Yelp
+289,Sushi Express,Ambato,2024-07-12,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",AlejandraT,Yelp
+290,Comida Típica Quiteña,Ibarra,2024-09-06,2,Pésima experiencia,"No me gustó mucho, esperaba más.",MariaGourmet,Google Reviews
+291,Comida Típica Quiteña,Esmeraldas,2024-04-10,5,Pésima experiencia,"Increíble experiencia, todo estuvo perfecto.",CarlaSeafoodFan,Google Reviews
+292,Comida Típica Quiteña,Quito,2025-01-05,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",AlejandraT,TripAdvisor
+293,Mariscos del Pacífico,Quito,2024-10-20,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",LuisCocinero,TripAdvisor
+294,La Parrilla de Pepe,Riobamba,2024-07-04,1,Regular,Esperaba mucho más y fue una decepción total.,CarlaSeafoodFan,Google Reviews
+295,Sushi Express,Loja,2025-01-31,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",DanielaTraveler,Google Reviews
+296,Mariscos del Pacífico,Riobamba,2024-09-01,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,TripAdvisor
+297,La Parrilla de Pepe,Machala,2025-01-25,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,LuisCocinero,Yelp
+298,La Parrilla de Pepe,Manta,2024-12-07,1,Muy bueno,Esperaba mucho más y fue una decepción total.,FoodieEcuador,Yelp
+299,La Parrilla de Pepe,Cuenca,2024-06-22,2,Muy bueno,"No me gustó mucho, esperaba más.",AndresCoffeeLover,Yelp
+300,Asadero Don Pedro,Ibarra,2024-09-28,4,Regular,"Muy buena comida y servicio, aunque algo costoso.",AndresCoffeeLover,Google Reviews
+301,Mariscos del Pacífico,Ibarra,2024-06-18,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,LuisCocinero,Yelp
+302,La Parrilla de Pepe,Guayaquil,2024-05-23,3,Regular,"No estuvo mal, pero tampoco lo recomendaría especialmente.",FoodieEcuador,Yelp
+303,Mariscos del Pacífico,Quito,2024-05-17,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",PabloEats,Yelp
+304,Comida Típica Quiteña,Machala,2024-09-15,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",AlejandraT,Google Reviews
+305,La Parrilla de Pepe,Ibarra,2024-02-18,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",AlejandraT,Yelp
+306,Asadero Don Pedro,Riobamba,2024-07-31,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",AndresCoffeeLover,Google Reviews
+307,La Pizzería Italiana,Cuenca,2024-08-09,1,Pésima experiencia,Comida horrible y atención pésima.,PedroFan,Yelp
+308,El Rincón Mexicano,Esmeraldas,2024-09-03,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,TripAdvisor
+309,Asadero Don Pedro,Esmeraldas,2024-04-04,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,MariaGourmet,Yelp
+310,La Pizzería Italiana,Guayaquil,2024-02-27,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",AlejandraT,TripAdvisor
+311,Sushi Express,Guayaquil,2024-09-04,4,No me gustó,"Muy buena comida y servicio, aunque algo costoso.",PabloEats,Google Reviews
+312,La Pizzería Italiana,Loja,2024-12-24,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",FoodieEcuador,TripAdvisor
+313,Restaurante El Sabor,Manta,2024-09-08,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",LuisCocinero,Yelp
+314,La Parrilla de Pepe,Loja,2024-08-06,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",FoodieEcuador,Google Reviews
+315,Vegan Life,Machala,2024-05-29,5,No me gustó,"Altamente recomendado, volveré pronto.",CarlaSeafoodFan,TripAdvisor
+316,La Parrilla de Pepe,Manta,2024-04-12,2,Pésima experiencia,La relación calidad-precio no es buena.,MariaGourmet,Google Reviews
+317,Sushi Express,Quito,2024-07-18,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",MariaGourmet,Google Reviews
+318,Vegan Life,Ibarra,2024-10-05,5,No me gustó,La comida es deliciosa y el servicio excelente.,PabloEats,Yelp
+319,Mariscos del Pacífico,Cuenca,2025-01-09,3,Muy bueno,"Servicio promedio, esperaba algo más.",LuisCocinero,TripAdvisor
+320,La Pizzería Italiana,Loja,2024-08-27,2,Muy bueno,Servicio lento y comida regular.,AlejandraT,Google Reviews
+321,La Pizzería Italiana,Manta,2024-10-12,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",LuisCocinero,Yelp
+322,La Parrilla de Pepe,Esmeraldas,2024-10-07,2,Regular,La relación calidad-precio no es buena.,LuisCocinero,TripAdvisor
+323,La Pizzería Italiana,Loja,2024-08-17,1,No me gustó,"Pésima experiencia, no volveré jamás.",MariaGourmet,TripAdvisor
+324,La Pizzería Italiana,Loja,2024-11-30,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",FoodieEcuador,TripAdvisor
+325,Mariscos del Pacífico,Ambato,2024-06-06,5,Muy bueno,La comida es deliciosa y el servicio excelente.,PedroFan,TripAdvisor
+326,Café Andino,Quito,2024-03-26,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",JuanPerez123,TripAdvisor
+327,La Pizzería Italiana,Ambato,2024-11-24,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,TripAdvisor
+328,La Parrilla de Pepe,Ibarra,2024-08-03,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",AndresCoffeeLover,Yelp
+329,Comida Típica Quiteña,Loja,2024-04-26,4,Regular,Buen ambiente y platos de calidad.,AlejandraT,Google Reviews
+330,La Parrilla de Pepe,Riobamba,2024-11-21,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",PabloEats,Google Reviews
+331,Restaurante El Sabor,Guayaquil,2024-05-31,1,Pésima experiencia,Comida horrible y atención pésima.,PabloEats,Yelp
+332,El Rincón Mexicano,Manta,2024-04-02,3,Muy bueno,"Servicio promedio, esperaba algo más.",MariaGourmet,TripAdvisor
+333,Asadero Don Pedro,Riobamba,2025-01-09,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,DanielaTraveler,Yelp
+334,Asadero Don Pedro,Esmeraldas,2024-11-06,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",AlejandraT,TripAdvisor
+335,Café Andino,Cuenca,2024-07-07,2,Pésima experiencia,Servicio lento y comida regular.,CarlaSeafoodFan,TripAdvisor
+336,Vegan Life,Cuenca,2024-11-23,5,Regular,"Increíble experiencia, todo estuvo perfecto.",PedroFan,TripAdvisor
+337,Vegan Life,Manta,2024-11-06,3,Excelente,"La comida estaba bien, pero nada especial.",AlejandraT,Yelp
+338,Café Andino,Esmeraldas,2024-12-01,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",MariaGourmet,Yelp
+339,Comida Típica Quiteña,Machala,2024-11-15,4,Muy bueno,Buen ambiente y platos de calidad.,AndresCoffeeLover,Google Reviews
+340,El Rincón Mexicano,Riobamba,2024-10-05,5,Regular,La comida es deliciosa y el servicio excelente.,AndresCoffeeLover,Yelp
+341,Mariscos del Pacífico,Machala,2024-02-14,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",FoodieEcuador,Yelp
+342,Café Andino,Quito,2024-05-21,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,FoodieEcuador,Google Reviews
+343,Asadero Don Pedro,Loja,2024-08-19,5,Muy bueno,"Altamente recomendado, volveré pronto.",MariaGourmet,Google Reviews
+344,Comida Típica Quiteña,Cuenca,2024-11-09,2,Regular,"No me gustó mucho, esperaba más.",PedroFan,Google Reviews
+345,La Parrilla de Pepe,Ibarra,2024-09-16,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,TripAdvisor
+346,Mariscos del Pacífico,Quito,2024-07-07,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",PabloEats,TripAdvisor
+347,La Parrilla de Pepe,Ambato,2024-05-09,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",PedroFan,Google Reviews
+348,La Pizzería Italiana,Quito,2024-05-16,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",CarlaSeafoodFan,Yelp
+349,Restaurante El Sabor,Ambato,2024-09-25,3,Regular,"La comida estaba bien, pero nada especial.",JuanPerez123,TripAdvisor
+350,Asadero Don Pedro,Ibarra,2024-04-20,4,Excelente,Buen ambiente y platos de calidad.,DanielaTraveler,TripAdvisor
+351,Café Andino,Quito,2024-08-23,3,Muy bueno,"La comida estaba bien, pero nada especial.",CarlaSeafoodFan,Google Reviews
+352,Comida Típica Quiteña,Guayaquil,2024-06-06,1,Regular,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,Google Reviews
+353,El Rincón Mexicano,Ambato,2024-10-20,2,Muy bueno,La relación calidad-precio no es buena.,JuanPerez123,TripAdvisor
+354,El Rincón Mexicano,Machala,2024-12-22,4,No me gustó,"Muy buena comida y servicio, aunque algo costoso.",MariaGourmet,TripAdvisor
+355,Restaurante El Sabor,Ambato,2025-01-24,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,TripAdvisor
+356,Comida Típica Quiteña,Ambato,2024-02-17,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",CarlaSeafoodFan,Google Reviews
+357,Vegan Life,Manta,2024-09-17,5,Regular,La comida es deliciosa y el servicio excelente.,FoodieEcuador,TripAdvisor
+358,Vegan Life,Loja,2024-05-14,5,Excelente,La comida es deliciosa y el servicio excelente.,LuisCocinero,Google Reviews
+359,Vegan Life,Loja,2025-01-10,1,No me gustó,Esperaba mucho más y fue una decepción total.,AlejandraT,Google Reviews
+360,Comida Típica Quiteña,Machala,2024-07-07,1,No me gustó,Esperaba mucho más y fue una decepción total.,PedroFan,Yelp
+361,La Parrilla de Pepe,Ambato,2024-10-07,3,Muy bueno,"Servicio promedio, esperaba algo más.",AndresCoffeeLover,Yelp
+362,Restaurante El Sabor,Riobamba,2024-03-22,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,PedroFan,Yelp
+363,La Pizzería Italiana,Quito,2024-04-24,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,Google Reviews
+364,Café Andino,Loja,2024-12-23,2,Pésima experiencia,"No me gustó mucho, esperaba más.",LuisCocinero,Yelp
+365,Sushi Express,Ibarra,2024-06-06,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,LuisCocinero,Yelp
+366,Café Andino,Ambato,2024-04-19,1,Regular,Esperaba mucho más y fue una decepción total.,MariaGourmet,Yelp
+367,Sushi Express,Ambato,2024-07-27,3,Regular,"Servicio promedio, esperaba algo más.",PedroFan,Google Reviews
+368,Vegan Life,Loja,2024-12-03,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,TripAdvisor
+369,La Parrilla de Pepe,Quito,2024-06-15,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",FoodieEcuador,Google Reviews
+370,Vegan Life,Esmeraldas,2024-10-06,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",PabloEats,Yelp
+371,Comida Típica Quiteña,Manta,2024-10-04,3,Regular,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PedroFan,Google Reviews
+372,Restaurante El Sabor,Cuenca,2024-04-17,1,Excelente,"Pésima experiencia, no volveré jamás.",AlejandraT,TripAdvisor
+373,La Parrilla de Pepe,Cuenca,2024-03-01,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",LuisCocinero,TripAdvisor
+374,Asadero Don Pedro,Ambato,2024-04-07,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",MariaGourmet,TripAdvisor
+375,La Pizzería Italiana,Manta,2025-01-20,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",AndresCoffeeLover,Google Reviews
+376,El Rincón Mexicano,Riobamba,2024-11-23,2,Pésima experiencia,"No me gustó mucho, esperaba más.",PedroFan,Google Reviews
+377,Comida Típica Quiteña,Riobamba,2024-03-18,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",AndresCoffeeLover,TripAdvisor
+378,La Pizzería Italiana,Loja,2024-09-24,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",AlejandraT,TripAdvisor
+379,La Pizzería Italiana,Machala,2024-08-14,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",MariaGourmet,Google Reviews
+380,La Parrilla de Pepe,Loja,2024-05-18,1,Muy bueno,Comida horrible y atención pésima.,AndresCoffeeLover,Yelp
+381,Café Andino,Ibarra,2024-10-06,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",AlejandraT,Yelp
+382,Restaurante El Sabor,Quito,2024-04-24,5,No me gustó,La comida es deliciosa y el servicio excelente.,AndresCoffeeLover,Google Reviews
+383,Restaurante El Sabor,Machala,2024-10-14,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,TripAdvisor
+384,Asadero Don Pedro,Manta,2024-12-04,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,TripAdvisor
+385,La Pizzería Italiana,Manta,2025-01-31,4,No me gustó,"Me gustó mucho, aunque hubo algo de demora.",FoodieEcuador,TripAdvisor
+386,La Pizzería Italiana,Cuenca,2024-03-20,3,Excelente,"No estuvo mal, pero tampoco lo recomendaría especialmente.",LuisCocinero,TripAdvisor
+387,Asadero Don Pedro,Ambato,2024-02-21,1,Excelente,Comida horrible y atención pésima.,AlejandraT,TripAdvisor
+388,Asadero Don Pedro,Manta,2024-03-23,2,Pésima experiencia,La relación calidad-precio no es buena.,FoodieEcuador,Google Reviews
+389,Vegan Life,Quito,2024-04-30,4,Pésima experiencia,Buen ambiente y platos de calidad.,FoodieEcuador,Yelp
+390,Sushi Express,Machala,2024-09-27,2,Excelente,Servicio lento y comida regular.,CarlaSeafoodFan,TripAdvisor
+391,Vegan Life,Cuenca,2024-04-13,3,Regular,"La comida estaba bien, pero nada especial.",JuanPerez123,Google Reviews
+392,Restaurante El Sabor,Machala,2024-12-25,1,Muy bueno,"Pésima experiencia, no volveré jamás.",LuisCocinero,TripAdvisor
+393,La Pizzería Italiana,Esmeraldas,2024-11-06,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,AndresCoffeeLover,Yelp
+394,El Rincón Mexicano,Esmeraldas,2024-09-09,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",DanielaTraveler,TripAdvisor
+395,Asadero Don Pedro,Quito,2024-04-10,2,Muy bueno,"No me gustó mucho, esperaba más.",PedroFan,Google Reviews
+396,Asadero Don Pedro,Loja,2025-01-11,1,Regular,Esperaba mucho más y fue una decepción total.,AlejandraT,TripAdvisor
+397,Café Andino,Quito,2024-09-21,1,No me gustó,Comida horrible y atención pésima.,AndresCoffeeLover,TripAdvisor
+398,Comida Típica Quiteña,Esmeraldas,2024-08-23,3,Regular,"La comida estaba bien, pero nada especial.",DanielaTraveler,Google Reviews
+399,Café Andino,Loja,2024-08-02,2,Excelente,La relación calidad-precio no es buena.,PabloEats,Yelp
+400,Restaurante El Sabor,Machala,2025-01-21,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",JuanPerez123,Google Reviews
+401,La Pizzería Italiana,Guayaquil,2024-10-06,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",CarlaSeafoodFan,Yelp
+402,La Pizzería Italiana,Ibarra,2024-11-16,1,Regular,"Pésima experiencia, no volveré jamás.",MariaGourmet,Yelp
+403,El Rincón Mexicano,Machala,2025-01-12,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",LuisCocinero,Yelp
+404,Café Andino,Quito,2024-05-03,1,Muy bueno,Esperaba mucho más y fue una decepción total.,FoodieEcuador,Yelp
+405,Vegan Life,Loja,2024-10-22,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,Yelp
+406,Vegan Life,Cuenca,2024-08-01,4,Muy bueno,Buen ambiente y platos de calidad.,FoodieEcuador,Yelp
+407,La Parrilla de Pepe,Quito,2024-02-16,3,Regular,"La comida estaba bien, pero nada especial.",JuanPerez123,TripAdvisor
+408,Comida Típica Quiteña,Ambato,2025-01-08,4,No me gustó,Buen ambiente y platos de calidad.,CarlaSeafoodFan,Google Reviews
+409,Asadero Don Pedro,Quito,2024-08-19,1,Regular,Comida horrible y atención pésima.,PabloEats,TripAdvisor
+410,El Rincón Mexicano,Ambato,2024-04-17,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",PedroFan,Google Reviews
+411,Comida Típica Quiteña,Machala,2024-07-30,2,Pésima experiencia,La relación calidad-precio no es buena.,FoodieEcuador,Google Reviews
+412,Restaurante El Sabor,Guayaquil,2024-10-20,2,Pésima experiencia,"No me gustó mucho, esperaba más.",CarlaSeafoodFan,Google Reviews
+413,Vegan Life,Riobamba,2024-08-03,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,Yelp
+414,La Pizzería Italiana,Riobamba,2024-03-24,5,Excelente,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,Google Reviews
+415,Sushi Express,Esmeraldas,2024-05-24,5,No me gustó,"Altamente recomendado, volveré pronto.",LuisCocinero,Yelp
+416,La Parrilla de Pepe,Loja,2024-05-17,4,No me gustó,Buen ambiente y platos de calidad.,AlejandraT,Google Reviews
+417,Comida Típica Quiteña,Quito,2024-04-12,3,Regular,"Servicio promedio, esperaba algo más.",FoodieEcuador,Yelp
+418,Sushi Express,Quito,2024-07-25,2,Muy bueno,Servicio lento y comida regular.,MariaGourmet,Yelp
+419,El Rincón Mexicano,Guayaquil,2024-09-02,1,Excelente,"Pésima experiencia, no volveré jamás.",AndresCoffeeLover,TripAdvisor
+420,La Parrilla de Pepe,Ibarra,2024-11-26,5,No me gustó,La comida es deliciosa y el servicio excelente.,PedroFan,Google Reviews
+421,Café Andino,Ambato,2024-07-21,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,Yelp
+422,El Rincón Mexicano,Ambato,2024-06-26,3,No me gustó,"Servicio promedio, esperaba algo más.",JuanPerez123,Yelp
+423,El Rincón Mexicano,Quito,2024-08-15,5,Excelente,La comida es deliciosa y el servicio excelente.,FoodieEcuador,TripAdvisor
+424,El Rincón Mexicano,Ibarra,2024-11-03,4,Pésima experiencia,"Muy buena comida y servicio, aunque algo costoso.",FoodieEcuador,Yelp
+425,Comida Típica Quiteña,Quito,2024-10-14,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",PabloEats,Yelp
+426,Asadero Don Pedro,Loja,2024-03-29,4,Regular,Buen ambiente y platos de calidad.,AndresCoffeeLover,Google Reviews
+427,Sushi Express,Quito,2024-06-11,2,Excelente,La relación calidad-precio no es buena.,MariaGourmet,TripAdvisor
+428,Comida Típica Quiteña,Manta,2024-02-21,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",AlejandraT,TripAdvisor
+429,Café Andino,Manta,2024-08-28,4,Muy bueno,Buen ambiente y platos de calidad.,AndresCoffeeLover,Yelp
+430,Mariscos del Pacífico,Loja,2025-01-04,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,AlejandraT,Google Reviews
+431,Comida Típica Quiteña,Riobamba,2024-11-23,3,No me gustó,"La comida estaba bien, pero nada especial.",FoodieEcuador,TripAdvisor
+432,Restaurante El Sabor,Esmeraldas,2024-11-17,2,Regular,Servicio lento y comida regular.,PabloEats,Google Reviews
+433,Mariscos del Pacífico,Machala,2024-03-06,3,Regular,"La comida estaba bien, pero nada especial.",JuanPerez123,Yelp
+434,La Pizzería Italiana,Ibarra,2024-09-28,5,Excelente,La comida es deliciosa y el servicio excelente.,AndresCoffeeLover,TripAdvisor
+435,La Parrilla de Pepe,Quito,2024-07-10,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,TripAdvisor
+436,La Parrilla de Pepe,Guayaquil,2025-01-03,5,No me gustó,La comida es deliciosa y el servicio excelente.,AlejandraT,Google Reviews
+437,El Rincón Mexicano,Ambato,2024-07-12,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PedroFan,Google Reviews
+438,Restaurante El Sabor,Riobamba,2024-05-04,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Google Reviews
+439,El Rincón Mexicano,Riobamba,2024-05-13,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,Google Reviews
+440,Vegan Life,Loja,2024-09-08,5,No me gustó,"Altamente recomendado, volveré pronto.",JuanPerez123,TripAdvisor
+441,Sushi Express,Riobamba,2024-06-23,5,Excelente,La comida es deliciosa y el servicio excelente.,DanielaTraveler,Yelp
+442,La Pizzería Italiana,Ibarra,2024-08-16,1,No me gustó,"Pésima experiencia, no volveré jamás.",LuisCocinero,Google Reviews
+443,La Parrilla de Pepe,Esmeraldas,2024-02-16,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,PabloEats,TripAdvisor
+444,Comida Típica Quiteña,Ambato,2024-03-27,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,CarlaSeafoodFan,TripAdvisor
+445,Comida Típica Quiteña,Loja,2024-05-03,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,Google Reviews
+446,Vegan Life,Machala,2024-06-24,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",AndresCoffeeLover,Yelp
+447,El Rincón Mexicano,Riobamba,2025-01-13,3,Regular,"No estuvo mal, pero tampoco lo recomendaría especialmente.",LuisCocinero,Google Reviews
+448,Asadero Don Pedro,Riobamba,2024-03-08,4,Pésima experiencia,"Muy buena comida y servicio, aunque algo costoso.",CarlaSeafoodFan,TripAdvisor
+449,Mariscos del Pacífico,Riobamba,2024-08-10,3,Excelente,"La comida estaba bien, pero nada especial.",PabloEats,Yelp
+450,La Parrilla de Pepe,Guayaquil,2024-02-12,4,Excelente,Buen ambiente y platos de calidad.,LuisCocinero,Yelp
+451,La Parrilla de Pepe,Riobamba,2024-04-12,1,Muy bueno,Esperaba mucho más y fue una decepción total.,PabloEats,TripAdvisor
+452,La Pizzería Italiana,Ibarra,2024-11-14,2,Regular,"No me gustó mucho, esperaba más.",FoodieEcuador,TripAdvisor
+453,Vegan Life,Quito,2024-07-31,1,Pésima experiencia,Comida horrible y atención pésima.,CarlaSeafoodFan,TripAdvisor
+454,El Rincón Mexicano,Quito,2024-03-03,4,No me gustó,"Muy buena comida y servicio, aunque algo costoso.",CarlaSeafoodFan,Google Reviews
+455,El Rincón Mexicano,Manta,2024-10-17,4,Excelente,Buen ambiente y platos de calidad.,DanielaTraveler,Google Reviews
+456,Sushi Express,Ambato,2024-03-24,4,Excelente,Buen ambiente y platos de calidad.,AlejandraT,Google Reviews
+457,La Parrilla de Pepe,Ibarra,2024-11-04,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,LuisCocinero,Google Reviews
+458,Asadero Don Pedro,Riobamba,2024-07-02,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,TripAdvisor
+459,Café Andino,Manta,2024-07-30,4,Pésima experiencia,Buen ambiente y platos de calidad.,FoodieEcuador,Google Reviews
+460,El Rincón Mexicano,Ibarra,2024-06-25,2,No me gustó,Servicio lento y comida regular.,LuisCocinero,Yelp
+461,La Parrilla de Pepe,Riobamba,2024-05-30,1,Excelente,Esperaba mucho más y fue una decepción total.,DanielaTraveler,Yelp
+462,La Parrilla de Pepe,Guayaquil,2025-01-24,1,Muy bueno,"Pésima experiencia, no volveré jamás.",PabloEats,TripAdvisor
+463,La Parrilla de Pepe,Cuenca,2025-01-08,4,No me gustó,Buen ambiente y platos de calidad.,PabloEats,Google Reviews
+464,Sushi Express,Quito,2024-10-08,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PabloEats,TripAdvisor
+465,Vegan Life,Cuenca,2024-03-17,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",JuanPerez123,Google Reviews
+466,La Pizzería Italiana,Guayaquil,2024-10-08,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,Yelp
+467,Comida Típica Quiteña,Manta,2024-02-23,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",CarlaSeafoodFan,Yelp
+468,Vegan Life,Ibarra,2024-11-12,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",PabloEats,TripAdvisor
+469,Vegan Life,Riobamba,2024-08-22,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",MariaGourmet,Yelp
+470,Asadero Don Pedro,Guayaquil,2024-09-21,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,FoodieEcuador,TripAdvisor
+471,Comida Típica Quiteña,Ambato,2024-10-27,2,No me gustó,"No me gustó mucho, esperaba más.",AndresCoffeeLover,Google Reviews
+472,Sushi Express,Machala,2024-10-11,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",AlejandraT,Yelp
+473,Asadero Don Pedro,Ambato,2024-09-20,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,LuisCocinero,Yelp
+474,Sushi Express,Cuenca,2025-01-06,2,No me gustó,"No me gustó mucho, esperaba más.",DanielaTraveler,TripAdvisor
+475,El Rincón Mexicano,Ambato,2024-05-30,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,DanielaTraveler,Yelp
+476,La Pizzería Italiana,Guayaquil,2024-12-20,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",PabloEats,Yelp
+477,La Parrilla de Pepe,Ambato,2024-10-08,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",FoodieEcuador,Google Reviews
+478,Restaurante El Sabor,Ambato,2024-12-14,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",MariaGourmet,Yelp
+479,Vegan Life,Esmeraldas,2024-06-25,1,Muy bueno,"No lo recomiendo para nada, muy mala experiencia.",AndresCoffeeLover,Google Reviews
+480,Asadero Don Pedro,Manta,2024-06-27,5,Regular,"Altamente recomendado, volveré pronto.",MariaGourmet,Google Reviews
+481,Mariscos del Pacífico,Guayaquil,2024-12-12,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,DanielaTraveler,Yelp
+482,La Parrilla de Pepe,Riobamba,2024-12-31,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",FoodieEcuador,Yelp
+483,Sushi Express,Loja,2024-09-15,2,No me gustó,"No me gustó mucho, esperaba más.",CarlaSeafoodFan,Google Reviews
+484,El Rincón Mexicano,Esmeraldas,2024-08-09,1,Excelente,"Pésima experiencia, no volveré jamás.",JuanPerez123,Yelp
+485,Asadero Don Pedro,Cuenca,2024-07-21,3,Excelente,"No estuvo mal, pero tampoco lo recomendaría especialmente.",MariaGourmet,Google Reviews
+486,Mariscos del Pacífico,Quito,2024-04-06,4,Excelente,Buen ambiente y platos de calidad.,PabloEats,Yelp
+487,Mariscos del Pacífico,Guayaquil,2024-05-14,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",MariaGourmet,Yelp
+488,Sushi Express,Ambato,2024-09-08,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",CarlaSeafoodFan,Google Reviews
+489,Comida Típica Quiteña,Riobamba,2024-02-12,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",DanielaTraveler,TripAdvisor
+490,Vegan Life,Ibarra,2024-10-22,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",MariaGourmet,Google Reviews
+491,Sushi Express,Riobamba,2024-04-23,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,MariaGourmet,Yelp
+492,El Rincón Mexicano,Esmeraldas,2024-07-18,1,No me gustó,"Pésima experiencia, no volveré jamás.",LuisCocinero,Yelp
+493,Sushi Express,Ambato,2024-02-08,4,Pésima experiencia,Buen ambiente y platos de calidad.,PabloEats,Yelp
+494,Café Andino,Riobamba,2024-11-02,3,Regular,"Un restaurante aceptable, sin destacar demasiado.",CarlaSeafoodFan,Yelp
+495,Sushi Express,Guayaquil,2024-12-08,4,No me gustó,"Me gustó mucho, aunque hubo algo de demora.",FoodieEcuador,TripAdvisor
+496,Restaurante El Sabor,Guayaquil,2025-01-10,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",AlejandraT,Yelp
+497,Restaurante El Sabor,Ambato,2024-10-30,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",MariaGourmet,Yelp
+498,Sushi Express,Ibarra,2024-11-16,4,Regular,"Muy buena comida y servicio, aunque algo costoso.",FoodieEcuador,Yelp
+499,La Parrilla de Pepe,Loja,2025-01-31,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",PedroFan,Yelp
+500,El Rincón Mexicano,Riobamba,2024-06-25,3,Regular,"Un restaurante aceptable, sin destacar demasiado.",FoodieEcuador,TripAdvisor
+501,Mariscos del Pacífico,Loja,2024-12-21,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",CarlaSeafoodFan,Google Reviews
+502,Asadero Don Pedro,Manta,2024-06-25,2,Muy bueno,La relación calidad-precio no es buena.,FoodieEcuador,Google Reviews
+503,Asadero Don Pedro,Riobamba,2024-02-11,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",CarlaSeafoodFan,TripAdvisor
+504,La Pizzería Italiana,Riobamba,2024-03-16,3,Regular,"Servicio promedio, esperaba algo más.",PabloEats,Google Reviews
+505,La Pizzería Italiana,Ambato,2024-09-14,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",PedroFan,TripAdvisor
+506,Restaurante El Sabor,Quito,2024-06-15,3,Muy bueno,"La comida estaba bien, pero nada especial.",MariaGourmet,Google Reviews
+507,La Pizzería Italiana,Ibarra,2024-04-19,3,Regular,"Un restaurante aceptable, sin destacar demasiado.",PabloEats,Google Reviews
+508,Café Andino,Loja,2024-08-27,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,PabloEats,TripAdvisor
+509,Sushi Express,Quito,2024-04-17,4,Pésima experiencia,"Muy buena comida y servicio, aunque algo costoso.",PedroFan,TripAdvisor
+510,La Pizzería Italiana,Esmeraldas,2024-09-16,4,Regular,Buen ambiente y platos de calidad.,PabloEats,Yelp
+511,Asadero Don Pedro,Riobamba,2024-12-10,2,Regular,Servicio lento y comida regular.,DanielaTraveler,Yelp
+512,La Pizzería Italiana,Riobamba,2024-02-05,1,No me gustó,Comida horrible y atención pésima.,LuisCocinero,Yelp
+513,Café Andino,Cuenca,2024-08-11,4,Regular,Buen ambiente y platos de calidad.,JuanPerez123,TripAdvisor
+514,Sushi Express,Machala,2024-07-07,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,FoodieEcuador,TripAdvisor
+515,Mariscos del Pacífico,Manta,2024-07-08,2,Muy bueno,La relación calidad-precio no es buena.,AndresCoffeeLover,Google Reviews
+516,Café Andino,Cuenca,2024-08-20,1,No me gustó,Esperaba mucho más y fue una decepción total.,AlejandraT,TripAdvisor
+517,La Pizzería Italiana,Ambato,2025-01-04,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",LuisCocinero,Yelp
+518,La Pizzería Italiana,Cuenca,2025-01-20,2,Muy bueno,Servicio lento y comida regular.,CarlaSeafoodFan,Yelp
+519,Asadero Don Pedro,Guayaquil,2024-10-01,1,Muy bueno,Comida horrible y atención pésima.,MariaGourmet,Yelp
+520,Sushi Express,Esmeraldas,2024-05-27,3,Muy bueno,"Servicio promedio, esperaba algo más.",PabloEats,Google Reviews
+521,Café Andino,Ambato,2024-07-16,5,Regular,"Increíble experiencia, todo estuvo perfecto.",JuanPerez123,TripAdvisor
+522,La Pizzería Italiana,Ibarra,2024-07-16,2,Pésima experiencia,La relación calidad-precio no es buena.,CarlaSeafoodFan,Google Reviews
+523,Comida Típica Quiteña,Guayaquil,2025-01-29,4,Regular,Buen ambiente y platos de calidad.,PabloEats,Yelp
+524,El Rincón Mexicano,Esmeraldas,2024-11-04,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,TripAdvisor
+525,Vegan Life,Manta,2024-08-09,4,Pésima experiencia,Buen ambiente y platos de calidad.,PabloEats,Yelp
+526,Comida Típica Quiteña,Manta,2024-05-04,2,No me gustó,"No me gustó mucho, esperaba más.",PedroFan,Google Reviews
+527,Comida Típica Quiteña,Loja,2024-12-17,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,Google Reviews
+528,Asadero Don Pedro,Cuenca,2024-11-06,3,Muy bueno,"Servicio promedio, esperaba algo más.",MariaGourmet,TripAdvisor
+529,Asadero Don Pedro,Loja,2024-07-08,1,Excelente,Comida horrible y atención pésima.,PabloEats,Google Reviews
+530,Café Andino,Machala,2024-03-08,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",AndresCoffeeLover,Google Reviews
+531,Restaurante El Sabor,Guayaquil,2024-10-19,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",CarlaSeafoodFan,Yelp
+532,Comida Típica Quiteña,Ambato,2024-12-17,1,Regular,Esperaba mucho más y fue una decepción total.,JuanPerez123,Google Reviews
+533,Restaurante El Sabor,Machala,2024-02-08,1,Muy bueno,Comida horrible y atención pésima.,FoodieEcuador,Yelp
+534,Sushi Express,Riobamba,2024-10-29,3,No me gustó,"La comida estaba bien, pero nada especial.",FoodieEcuador,TripAdvisor
+535,Café Andino,Esmeraldas,2025-01-18,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Google Reviews
+536,Asadero Don Pedro,Manta,2024-11-22,2,No me gustó,"No me gustó mucho, esperaba más.",MariaGourmet,TripAdvisor
+537,La Pizzería Italiana,Loja,2024-07-09,1,Muy bueno,"Pésima experiencia, no volveré jamás.",AlejandraT,Yelp
+538,Mariscos del Pacífico,Loja,2024-06-03,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,MariaGourmet,Yelp
+539,Café Andino,Cuenca,2024-03-29,1,Excelente,Comida horrible y atención pésima.,JuanPerez123,Google Reviews
+540,Sushi Express,Riobamba,2024-04-15,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,PedroFan,TripAdvisor
+541,Sushi Express,Manta,2024-11-01,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,CarlaSeafoodFan,TripAdvisor
+542,La Pizzería Italiana,Esmeraldas,2024-12-19,2,Pésima experiencia,Servicio lento y comida regular.,AlejandraT,TripAdvisor
+543,Comida Típica Quiteña,Quito,2025-01-30,2,Regular,La relación calidad-precio no es buena.,MariaGourmet,Google Reviews
+544,Asadero Don Pedro,Riobamba,2024-09-14,5,Muy bueno,"Altamente recomendado, volveré pronto.",DanielaTraveler,TripAdvisor
+545,Vegan Life,Machala,2024-04-24,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",MariaGourmet,Yelp
+546,La Parrilla de Pepe,Loja,2024-08-01,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",DanielaTraveler,TripAdvisor
+547,Comida Típica Quiteña,Esmeraldas,2024-03-08,3,Regular,"Servicio promedio, esperaba algo más.",FoodieEcuador,TripAdvisor
+548,Restaurante El Sabor,Guayaquil,2024-12-23,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",FoodieEcuador,Google Reviews
+549,Comida Típica Quiteña,Ibarra,2024-10-10,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,PabloEats,Yelp
+550,Sushi Express,Quito,2024-02-27,1,Excelente,"Pésima experiencia, no volveré jamás.",AlejandraT,Yelp
+551,La Parrilla de Pepe,Quito,2024-08-22,2,Excelente,La relación calidad-precio no es buena.,JuanPerez123,Yelp
+552,El Rincón Mexicano,Esmeraldas,2024-12-01,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",CarlaSeafoodFan,Google Reviews
+553,La Pizzería Italiana,Cuenca,2024-10-19,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",MariaGourmet,Google Reviews
+554,Café Andino,Manta,2024-12-28,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",FoodieEcuador,Yelp
+555,El Rincón Mexicano,Riobamba,2024-09-02,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",AndresCoffeeLover,Yelp
+556,Mariscos del Pacífico,Ambato,2025-01-30,5,Regular,La comida es deliciosa y el servicio excelente.,MariaGourmet,Yelp
+557,Restaurante El Sabor,Manta,2024-08-15,5,Regular,La comida es deliciosa y el servicio excelente.,FoodieEcuador,Yelp
+558,Café Andino,Manta,2024-04-27,3,No me gustó,"Servicio promedio, esperaba algo más.",JuanPerez123,Google Reviews
+559,El Rincón Mexicano,Machala,2025-01-29,5,Excelente,La comida es deliciosa y el servicio excelente.,JuanPerez123,Google Reviews
+560,El Rincón Mexicano,Ambato,2024-12-26,2,Muy bueno,La relación calidad-precio no es buena.,AlejandraT,Yelp
+561,Café Andino,Esmeraldas,2024-03-08,4,Excelente,Buen ambiente y platos de calidad.,AlejandraT,Google Reviews
+562,El Rincón Mexicano,Loja,2024-03-31,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",AlejandraT,Google Reviews
+563,La Parrilla de Pepe,Cuenca,2024-03-12,2,Excelente,Servicio lento y comida regular.,AndresCoffeeLover,Yelp
+564,Vegan Life,Ambato,2024-05-30,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,DanielaTraveler,Yelp
+565,Café Andino,Ambato,2024-10-30,2,Pésima experiencia,La relación calidad-precio no es buena.,FoodieEcuador,Google Reviews
+566,La Parrilla de Pepe,Esmeraldas,2024-11-12,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Yelp
+567,Vegan Life,Riobamba,2024-07-10,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",JuanPerez123,Yelp
+568,Asadero Don Pedro,Ibarra,2024-04-16,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,MariaGourmet,TripAdvisor
+569,El Rincón Mexicano,Ibarra,2024-08-25,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",PedroFan,Google Reviews
+570,Vegan Life,Machala,2024-08-07,5,Excelente,"Altamente recomendado, volveré pronto.",DanielaTraveler,Yelp
+571,Café Andino,Guayaquil,2025-01-03,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",PedroFan,Google Reviews
+572,Restaurante El Sabor,Riobamba,2024-04-18,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,CarlaSeafoodFan,TripAdvisor
+573,Mariscos del Pacífico,Ambato,2024-09-23,4,Regular,Buen ambiente y platos de calidad.,CarlaSeafoodFan,Yelp
+574,La Parrilla de Pepe,Loja,2024-03-22,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",DanielaTraveler,Yelp
+575,Vegan Life,Manta,2024-07-24,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,LuisCocinero,Yelp
+576,La Pizzería Italiana,Ibarra,2025-01-07,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",AndresCoffeeLover,Google Reviews
+577,El Rincón Mexicano,Riobamba,2024-05-04,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",MariaGourmet,Google Reviews
+578,Mariscos del Pacífico,Guayaquil,2024-08-21,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,PedroFan,TripAdvisor
+579,Mariscos del Pacífico,Manta,2024-03-13,2,Regular,"No me gustó mucho, esperaba más.",FoodieEcuador,TripAdvisor
+580,Café Andino,Esmeraldas,2024-12-20,3,Excelente,"No estuvo mal, pero tampoco lo recomendaría especialmente.",AlejandraT,Google Reviews
+581,La Pizzería Italiana,Riobamba,2024-05-25,1,Pésima experiencia,Comida horrible y atención pésima.,CarlaSeafoodFan,Google Reviews
+582,El Rincón Mexicano,Manta,2024-06-30,1,Muy bueno,Comida horrible y atención pésima.,AlejandraT,Google Reviews
+583,Restaurante El Sabor,Machala,2024-10-25,2,Excelente,Servicio lento y comida regular.,AndresCoffeeLover,TripAdvisor
+584,La Pizzería Italiana,Riobamba,2024-09-22,3,Excelente,"La comida estaba bien, pero nada especial.",PedroFan,TripAdvisor
+585,El Rincón Mexicano,Cuenca,2024-05-29,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,Google Reviews
+586,Mariscos del Pacífico,Quito,2024-10-01,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",LuisCocinero,TripAdvisor
+587,Comida Típica Quiteña,Loja,2024-05-30,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",AlejandraT,TripAdvisor
+588,Asadero Don Pedro,Loja,2024-08-16,5,Regular,"Altamente recomendado, volveré pronto.",AlejandraT,TripAdvisor
+589,Asadero Don Pedro,Guayaquil,2024-11-15,2,Pésima experiencia,"No me gustó mucho, esperaba más.",PabloEats,Google Reviews
+590,Restaurante El Sabor,Ibarra,2025-01-24,4,Excelente,Buen ambiente y platos de calidad.,JuanPerez123,TripAdvisor
+591,Café Andino,Machala,2024-03-20,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",PabloEats,Google Reviews
+592,Restaurante El Sabor,Riobamba,2024-09-17,3,Regular,"La comida estaba bien, pero nada especial.",CarlaSeafoodFan,Yelp
+593,Café Andino,Ambato,2025-01-17,5,Pésima experiencia,"Increíble experiencia, todo estuvo perfecto.",FoodieEcuador,TripAdvisor
+594,Vegan Life,Ambato,2024-04-23,3,Regular,"Servicio promedio, esperaba algo más.",PedroFan,TripAdvisor
+595,Vegan Life,Esmeraldas,2024-02-12,1,Muy bueno,Comida horrible y atención pésima.,AndresCoffeeLover,Google Reviews
+596,Asadero Don Pedro,Ambato,2024-05-01,2,No me gustó,"No me gustó mucho, esperaba más.",DanielaTraveler,Google Reviews
+597,Comida Típica Quiteña,Esmeraldas,2025-01-21,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,TripAdvisor
+598,Comida Típica Quiteña,Quito,2025-01-05,5,Excelente,"Altamente recomendado, volveré pronto.",DanielaTraveler,TripAdvisor
+599,Café Andino,Guayaquil,2024-02-13,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",AlejandraT,TripAdvisor
+600,La Pizzería Italiana,Machala,2024-06-13,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",MariaGourmet,Yelp
+601,Comida Típica Quiteña,Machala,2024-03-30,2,Excelente,La relación calidad-precio no es buena.,PedroFan,TripAdvisor
+602,La Parrilla de Pepe,Riobamba,2024-07-04,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,Yelp
+603,Sushi Express,Manta,2024-12-11,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",AlejandraT,TripAdvisor
+604,Comida Típica Quiteña,Manta,2024-04-23,5,No me gustó,La comida es deliciosa y el servicio excelente.,MariaGourmet,Yelp
+605,Restaurante El Sabor,Ibarra,2024-05-14,4,Regular,Buen ambiente y platos de calidad.,MariaGourmet,Yelp
+606,Asadero Don Pedro,Ibarra,2024-02-16,5,Regular,La comida es deliciosa y el servicio excelente.,AlejandraT,Yelp
+607,La Parrilla de Pepe,Cuenca,2024-07-04,1,No me gustó,"Pésima experiencia, no volveré jamás.",PedroFan,Google Reviews
+608,Café Andino,Cuenca,2024-11-03,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,Yelp
+609,Mariscos del Pacífico,Quito,2024-06-30,5,Excelente,"Altamente recomendado, volveré pronto.",CarlaSeafoodFan,Google Reviews
+610,Vegan Life,Manta,2024-12-25,5,Pésima experiencia,"Increíble experiencia, todo estuvo perfecto.",MariaGourmet,TripAdvisor
+611,Restaurante El Sabor,Manta,2024-07-19,3,Excelente,"La comida estaba bien, pero nada especial.",JuanPerez123,Google Reviews
+612,Café Andino,Quito,2024-10-30,4,Regular,"Muy buena comida y servicio, aunque algo costoso.",DanielaTraveler,Google Reviews
+613,Comida Típica Quiteña,Ambato,2024-11-19,1,Pésima experiencia,Comida horrible y atención pésima.,CarlaSeafoodFan,Google Reviews
+614,Café Andino,Manta,2025-01-21,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,PabloEats,TripAdvisor
+615,La Parrilla de Pepe,Esmeraldas,2024-11-25,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",PedroFan,TripAdvisor
+616,Comida Típica Quiteña,Ambato,2024-09-04,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",MariaGourmet,Google Reviews
+617,La Parrilla de Pepe,Cuenca,2024-05-23,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,PedroFan,Google Reviews
+618,Sushi Express,Ambato,2024-12-06,1,Excelente,"Pésima experiencia, no volveré jamás.",PabloEats,TripAdvisor
+619,Café Andino,Machala,2024-04-11,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",AlejandraT,TripAdvisor
+620,La Pizzería Italiana,Riobamba,2024-08-26,3,Excelente,"Servicio promedio, esperaba algo más.",AndresCoffeeLover,Google Reviews
+621,Asadero Don Pedro,Guayaquil,2025-01-23,2,Excelente,"No me gustó mucho, esperaba más.",DanielaTraveler,Yelp
+622,La Parrilla de Pepe,Ibarra,2024-06-06,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",LuisCocinero,Google Reviews
+623,El Rincón Mexicano,Manta,2024-11-09,1,Excelente,Comida horrible y atención pésima.,PabloEats,TripAdvisor
+624,Sushi Express,Guayaquil,2024-12-27,2,Muy bueno,"No me gustó mucho, esperaba más.",CarlaSeafoodFan,Google Reviews
+625,Mariscos del Pacífico,Loja,2024-07-13,5,Regular,"Increíble experiencia, todo estuvo perfecto.",JuanPerez123,TripAdvisor
+626,Mariscos del Pacífico,Loja,2024-07-10,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",FoodieEcuador,Google Reviews
+627,La Pizzería Italiana,Quito,2024-04-14,2,Muy bueno,La relación calidad-precio no es buena.,FoodieEcuador,Yelp
+628,Restaurante El Sabor,Ambato,2024-07-26,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",CarlaSeafoodFan,Google Reviews
+629,Vegan Life,Machala,2025-02-02,3,Muy bueno,"Servicio promedio, esperaba algo más.",DanielaTraveler,Yelp
+630,Restaurante El Sabor,Guayaquil,2024-12-06,5,Muy bueno,"Altamente recomendado, volveré pronto.",MariaGourmet,Google Reviews
+631,Vegan Life,Ambato,2024-10-15,3,Excelente,"La comida estaba bien, pero nada especial.",PabloEats,TripAdvisor
+632,Restaurante El Sabor,Manta,2024-12-24,1,Regular,"Pésima experiencia, no volveré jamás.",DanielaTraveler,TripAdvisor
+633,El Rincón Mexicano,Ibarra,2024-12-13,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",AlejandraT,Yelp
+634,Sushi Express,Riobamba,2024-02-16,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,Yelp
+635,Mariscos del Pacífico,Ambato,2024-08-28,1,No me gustó,Comida horrible y atención pésima.,AlejandraT,Google Reviews
+636,Café Andino,Ibarra,2024-09-17,2,Pésima experiencia,"No me gustó mucho, esperaba más.",FoodieEcuador,TripAdvisor
+637,Restaurante El Sabor,Esmeraldas,2024-06-12,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,Google Reviews
+638,Café Andino,Machala,2024-02-16,1,No me gustó,Comida horrible y atención pésima.,JuanPerez123,Google Reviews
+639,La Parrilla de Pepe,Cuenca,2024-12-06,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",FoodieEcuador,Google Reviews
+640,Comida Típica Quiteña,Loja,2024-11-11,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",AndresCoffeeLover,Google Reviews
+641,Restaurante El Sabor,Guayaquil,2024-03-17,4,No me gustó,Buen ambiente y platos de calidad.,FoodieEcuador,Yelp
+642,Asadero Don Pedro,Ambato,2024-07-07,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",AlejandraT,TripAdvisor
+643,Mariscos del Pacífico,Cuenca,2024-04-20,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,MariaGourmet,Yelp
+644,Asadero Don Pedro,Manta,2024-12-31,5,Regular,"Altamente recomendado, volveré pronto.",JuanPerez123,Yelp
+645,Restaurante El Sabor,Ibarra,2024-07-16,1,No me gustó,Esperaba mucho más y fue una decepción total.,LuisCocinero,Google Reviews
+646,Café Andino,Ambato,2024-11-23,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",MariaGourmet,TripAdvisor
+647,Sushi Express,Ibarra,2024-11-23,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",PabloEats,Yelp
+648,Sushi Express,Riobamba,2024-06-02,1,Muy bueno,Comida horrible y atención pésima.,PedroFan,TripAdvisor
+649,Asadero Don Pedro,Cuenca,2024-08-29,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",JuanPerez123,TripAdvisor
+650,Mariscos del Pacífico,Manta,2025-01-11,1,Muy bueno,"Pésima experiencia, no volveré jamás.",DanielaTraveler,TripAdvisor
+651,Mariscos del Pacífico,Quito,2024-04-10,1,Excelente,Comida horrible y atención pésima.,JuanPerez123,Yelp
+652,Café Andino,Riobamba,2024-02-23,1,Muy bueno,"No lo recomiendo para nada, muy mala experiencia.",LuisCocinero,Yelp
+653,Asadero Don Pedro,Loja,2024-04-19,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,TripAdvisor
+654,Café Andino,Machala,2024-04-08,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",CarlaSeafoodFan,Yelp
+655,La Pizzería Italiana,Loja,2024-09-17,3,No me gustó,"Servicio promedio, esperaba algo más.",DanielaTraveler,Yelp
+656,Mariscos del Pacífico,Esmeraldas,2024-05-01,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",PedroFan,Yelp
+657,Vegan Life,Riobamba,2024-08-30,5,No me gustó,La comida es deliciosa y el servicio excelente.,FoodieEcuador,Yelp
+658,Sushi Express,Riobamba,2024-05-08,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",LuisCocinero,Google Reviews
+659,La Pizzería Italiana,Cuenca,2024-09-21,5,Excelente,La comida es deliciosa y el servicio excelente.,PabloEats,TripAdvisor
+660,Comida Típica Quiteña,Cuenca,2024-09-21,4,Excelente,Buen ambiente y platos de calidad.,AndresCoffeeLover,Google Reviews
+661,Vegan Life,Esmeraldas,2024-03-21,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,PabloEats,Google Reviews
+662,Restaurante El Sabor,Quito,2024-05-23,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",AlejandraT,TripAdvisor
+663,El Rincón Mexicano,Ambato,2024-06-11,3,No me gustó,"Servicio promedio, esperaba algo más.",LuisCocinero,Yelp
+664,La Pizzería Italiana,Cuenca,2025-01-17,2,Excelente,La relación calidad-precio no es buena.,DanielaTraveler,TripAdvisor
+665,Restaurante El Sabor,Ibarra,2024-09-21,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",AlejandraT,Yelp
+666,Asadero Don Pedro,Quito,2024-07-15,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",CarlaSeafoodFan,TripAdvisor
+667,Asadero Don Pedro,Cuenca,2024-08-18,2,No me gustó,"No me gustó mucho, esperaba más.",LuisCocinero,TripAdvisor
+668,El Rincón Mexicano,Cuenca,2024-07-31,1,Regular,"No lo recomiendo para nada, muy mala experiencia.",FoodieEcuador,Yelp
+669,La Parrilla de Pepe,Loja,2024-08-08,5,Excelente,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,Yelp
+670,Mariscos del Pacífico,Quito,2024-06-22,2,No me gustó,Servicio lento y comida regular.,DanielaTraveler,Yelp
+671,La Pizzería Italiana,Quito,2024-08-11,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",CarlaSeafoodFan,Google Reviews
+672,Café Andino,Manta,2024-05-24,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",FoodieEcuador,TripAdvisor
+673,Asadero Don Pedro,Riobamba,2024-04-26,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",FoodieEcuador,TripAdvisor
+674,Vegan Life,Loja,2024-08-29,3,Regular,"Servicio promedio, esperaba algo más.",LuisCocinero,TripAdvisor
+675,El Rincón Mexicano,Ibarra,2024-02-10,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",JuanPerez123,Google Reviews
+676,Asadero Don Pedro,Cuenca,2024-11-27,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,AlejandraT,Yelp
+677,Café Andino,Machala,2024-02-05,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",LuisCocinero,Yelp
+678,Mariscos del Pacífico,Manta,2024-02-11,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",MariaGourmet,Yelp
+679,El Rincón Mexicano,Guayaquil,2024-03-03,3,Regular,"La comida estaba bien, pero nada especial.",PedroFan,Yelp
+680,Vegan Life,Cuenca,2024-02-19,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",JuanPerez123,Yelp
+681,Asadero Don Pedro,Quito,2024-03-13,2,No me gustó,La relación calidad-precio no es buena.,AndresCoffeeLover,TripAdvisor
+682,Sushi Express,Esmeraldas,2024-04-18,4,No me gustó,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,TripAdvisor
+683,La Pizzería Italiana,Ambato,2024-09-24,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",JuanPerez123,TripAdvisor
+684,Comida Típica Quiteña,Machala,2024-10-27,5,Excelente,La comida es deliciosa y el servicio excelente.,PedroFan,Google Reviews
+685,Restaurante El Sabor,Riobamba,2024-09-29,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,TripAdvisor
+686,El Rincón Mexicano,Guayaquil,2024-06-24,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",LuisCocinero,Google Reviews
+687,Café Andino,Esmeraldas,2024-11-15,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",DanielaTraveler,Yelp
+688,Comida Típica Quiteña,Ambato,2024-04-05,3,Regular,"Servicio promedio, esperaba algo más.",MariaGourmet,Yelp
+689,Sushi Express,Ambato,2024-05-28,2,Pésima experiencia,"No me gustó mucho, esperaba más.",JuanPerez123,Google Reviews
+690,El Rincón Mexicano,Machala,2024-05-15,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",FoodieEcuador,TripAdvisor
+691,Comida Típica Quiteña,Ambato,2024-03-19,4,Excelente,Buen ambiente y platos de calidad.,PabloEats,Yelp
+692,La Pizzería Italiana,Riobamba,2024-12-25,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",AlejandraT,TripAdvisor
+693,La Pizzería Italiana,Machala,2024-02-10,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",PabloEats,Yelp
+694,Mariscos del Pacífico,Esmeraldas,2024-04-19,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,Yelp
+695,Sushi Express,Riobamba,2024-07-27,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",AlejandraT,Google Reviews
+696,Café Andino,Riobamba,2024-06-04,2,No me gustó,Servicio lento y comida regular.,AlejandraT,TripAdvisor
+697,La Pizzería Italiana,Riobamba,2024-03-30,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",PedroFan,Google Reviews
+698,La Parrilla de Pepe,Guayaquil,2024-12-30,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",LuisCocinero,Yelp
+699,Café Andino,Quito,2024-10-06,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",LuisCocinero,Yelp
+700,Comida Típica Quiteña,Cuenca,2024-10-18,1,Regular,Comida horrible y atención pésima.,AlejandraT,TripAdvisor
+701,Restaurante El Sabor,Esmeraldas,2024-08-04,1,Excelente,"Pésima experiencia, no volveré jamás.",PabloEats,TripAdvisor
+702,La Parrilla de Pepe,Machala,2024-04-25,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,MariaGourmet,Yelp
+703,Comida Típica Quiteña,Machala,2024-09-15,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",JuanPerez123,TripAdvisor
+704,Restaurante El Sabor,Loja,2024-07-17,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",FoodieEcuador,TripAdvisor
+705,Mariscos del Pacífico,Quito,2025-01-20,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",PedroFan,TripAdvisor
+706,Mariscos del Pacífico,Quito,2024-04-21,4,No me gustó,"Me gustó mucho, aunque hubo algo de demora.",DanielaTraveler,Yelp
+707,Comida Típica Quiteña,Loja,2024-10-13,2,Excelente,La relación calidad-precio no es buena.,PedroFan,Google Reviews
+708,Sushi Express,Quito,2025-01-18,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,TripAdvisor
+709,Comida Típica Quiteña,Ibarra,2024-07-12,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,Yelp
+710,Mariscos del Pacífico,Machala,2024-04-30,1,No me gustó,Esperaba mucho más y fue una decepción total.,AlejandraT,Google Reviews
+711,Sushi Express,Esmeraldas,2024-03-23,3,Regular,"Un restaurante aceptable, sin destacar demasiado.",JuanPerez123,Yelp
+712,Asadero Don Pedro,Loja,2024-08-18,3,Excelente,"Servicio promedio, esperaba algo más.",MariaGourmet,Yelp
+713,La Parrilla de Pepe,Ambato,2024-04-25,5,Excelente,La comida es deliciosa y el servicio excelente.,AlejandraT,Google Reviews
+714,Restaurante El Sabor,Manta,2024-09-21,3,Muy bueno,"Servicio promedio, esperaba algo más.",MariaGourmet,TripAdvisor
+715,Comida Típica Quiteña,Quito,2024-12-11,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,Yelp
+716,El Rincón Mexicano,Quito,2024-11-28,2,Muy bueno,La relación calidad-precio no es buena.,AndresCoffeeLover,Yelp
+717,Restaurante El Sabor,Cuenca,2024-02-10,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",LuisCocinero,Google Reviews
+718,Restaurante El Sabor,Ibarra,2024-02-05,1,Regular,"No lo recomiendo para nada, muy mala experiencia.",PabloEats,Google Reviews
+719,La Parrilla de Pepe,Guayaquil,2024-12-29,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",JuanPerez123,Yelp
+720,Comida Típica Quiteña,Machala,2024-08-08,4,No me gustó,"Todo estuvo bien, pero podría mejorar un poco.",CarlaSeafoodFan,Yelp
+721,Sushi Express,Esmeraldas,2024-11-03,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",PedroFan,Yelp
+722,Sushi Express,Cuenca,2024-07-08,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",AndresCoffeeLover,Yelp
+723,El Rincón Mexicano,Esmeraldas,2024-12-14,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,Google Reviews
+724,Café Andino,Machala,2024-02-22,4,Muy bueno,Buen ambiente y platos de calidad.,CarlaSeafoodFan,Google Reviews
+725,La Pizzería Italiana,Esmeraldas,2024-08-15,1,Regular,"Pésima experiencia, no volveré jamás.",JuanPerez123,Google Reviews
+726,La Pizzería Italiana,Machala,2024-09-21,4,Muy bueno,Buen ambiente y platos de calidad.,AlejandraT,Google Reviews
+727,El Rincón Mexicano,Cuenca,2025-01-26,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,PabloEats,TripAdvisor
+728,Café Andino,Riobamba,2024-05-10,4,Muy bueno,Buen ambiente y platos de calidad.,AlejandraT,Yelp
+729,Vegan Life,Quito,2024-09-25,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",AlejandraT,Google Reviews
+730,Asadero Don Pedro,Loja,2024-02-11,5,Regular,La comida es deliciosa y el servicio excelente.,LuisCocinero,Yelp
+731,Restaurante El Sabor,Loja,2024-07-12,5,Regular,El mejor restaurante al que he ido en mucho tiempo.,PabloEats,Yelp
+732,Asadero Don Pedro,Guayaquil,2024-09-30,2,Regular,"No me gustó mucho, esperaba más.",PabloEats,TripAdvisor
+733,Comida Típica Quiteña,Ibarra,2024-03-18,2,No me gustó,Servicio lento y comida regular.,MariaGourmet,Google Reviews
+734,Café Andino,Quito,2024-10-20,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",AlejandraT,Google Reviews
+735,Restaurante El Sabor,Manta,2024-10-19,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",FoodieEcuador,Yelp
+736,La Parrilla de Pepe,Ambato,2025-01-20,1,Excelente,"Pésima experiencia, no volveré jamás.",PedroFan,TripAdvisor
+737,Café Andino,Ibarra,2024-03-25,2,Pésima experiencia,Servicio lento y comida regular.,DanielaTraveler,TripAdvisor
+738,Comida Típica Quiteña,Machala,2024-03-01,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",FoodieEcuador,Yelp
+739,Vegan Life,Ibarra,2024-04-03,5,Excelente,"Altamente recomendado, volveré pronto.",PabloEats,Yelp
+740,Vegan Life,Riobamba,2024-07-13,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,FoodieEcuador,Google Reviews
+741,Sushi Express,Manta,2024-09-20,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",FoodieEcuador,Yelp
+742,Café Andino,Manta,2024-05-05,4,Pésima experiencia,Buen ambiente y platos de calidad.,FoodieEcuador,Google Reviews
+743,Sushi Express,Machala,2024-10-11,5,Regular,"Altamente recomendado, volveré pronto.",DanielaTraveler,TripAdvisor
+744,Restaurante El Sabor,Quito,2024-10-28,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,TripAdvisor
+745,Asadero Don Pedro,Esmeraldas,2024-06-11,4,No me gustó,"Muy buena comida y servicio, aunque algo costoso.",FoodieEcuador,TripAdvisor
+746,Mariscos del Pacífico,Quito,2024-12-27,3,Muy bueno,"La comida estaba bien, pero nada especial.",PabloEats,TripAdvisor
+747,El Rincón Mexicano,Quito,2024-11-08,1,Excelente,Comida horrible y atención pésima.,AndresCoffeeLover,Google Reviews
+748,El Rincón Mexicano,Ibarra,2024-08-25,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",AlejandraT,Yelp
+749,Restaurante El Sabor,Riobamba,2024-08-02,4,No me gustó,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,Yelp
+750,Vegan Life,Cuenca,2025-01-30,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",JuanPerez123,Google Reviews
+751,La Pizzería Italiana,Manta,2024-10-09,1,Pésima experiencia,Comida horrible y atención pésima.,CarlaSeafoodFan,Yelp
+752,Comida Típica Quiteña,Machala,2024-08-13,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",MariaGourmet,Google Reviews
+753,Café Andino,Quito,2024-10-23,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",JuanPerez123,Yelp
+754,Mariscos del Pacífico,Quito,2024-02-24,2,Regular,La relación calidad-precio no es buena.,FoodieEcuador,Google Reviews
+755,Asadero Don Pedro,Riobamba,2024-12-23,4,Pésima experiencia,"Muy buena comida y servicio, aunque algo costoso.",JuanPerez123,TripAdvisor
+756,Café Andino,Ibarra,2024-08-06,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",CarlaSeafoodFan,Yelp
+757,Mariscos del Pacífico,Riobamba,2024-07-21,5,Regular,La comida es deliciosa y el servicio excelente.,PedroFan,TripAdvisor
+758,El Rincón Mexicano,Machala,2024-05-10,3,Excelente,"Servicio promedio, esperaba algo más.",PabloEats,TripAdvisor
+759,Sushi Express,Cuenca,2024-05-03,5,Regular,"Increíble experiencia, todo estuvo perfecto.",AlejandraT,Google Reviews
+760,La Pizzería Italiana,Cuenca,2024-08-04,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Google Reviews
+761,Sushi Express,Ibarra,2024-08-04,2,No me gustó,Servicio lento y comida regular.,MariaGourmet,TripAdvisor
+762,Asadero Don Pedro,Riobamba,2024-06-23,2,Excelente,La relación calidad-precio no es buena.,CarlaSeafoodFan,TripAdvisor
+763,El Rincón Mexicano,Quito,2024-06-28,2,Regular,La relación calidad-precio no es buena.,PabloEats,Google Reviews
+764,Asadero Don Pedro,Guayaquil,2024-10-09,2,Excelente,"No me gustó mucho, esperaba más.",DanielaTraveler,Yelp
+765,El Rincón Mexicano,Esmeraldas,2024-03-30,5,Regular,"Altamente recomendado, volveré pronto.",PabloEats,Google Reviews
+766,Mariscos del Pacífico,Ibarra,2024-11-08,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",MariaGourmet,Google Reviews
+767,La Pizzería Italiana,Cuenca,2024-11-29,1,Regular,Comida horrible y atención pésima.,LuisCocinero,Google Reviews
+768,Sushi Express,Esmeraldas,2024-02-25,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",PedroFan,TripAdvisor
+769,La Pizzería Italiana,Loja,2024-02-20,5,Excelente,La comida es deliciosa y el servicio excelente.,FoodieEcuador,Yelp
+770,Asadero Don Pedro,Manta,2024-09-17,5,Excelente,"Altamente recomendado, volveré pronto.",JuanPerez123,TripAdvisor
+771,Comida Típica Quiteña,Machala,2024-12-18,5,Regular,"Increíble experiencia, todo estuvo perfecto.",PabloEats,Yelp
+772,Comida Típica Quiteña,Manta,2024-02-29,1,Muy bueno,Esperaba mucho más y fue una decepción total.,PedroFan,TripAdvisor
+773,El Rincón Mexicano,Machala,2024-12-30,2,Regular,Servicio lento y comida regular.,DanielaTraveler,Google Reviews
+774,Café Andino,Esmeraldas,2024-12-25,3,Excelente,"Servicio promedio, esperaba algo más.",MariaGourmet,Google Reviews
+775,Vegan Life,Guayaquil,2024-06-05,5,Excelente,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,TripAdvisor
+776,La Pizzería Italiana,Riobamba,2024-11-02,2,Pésima experiencia,"No me gustó mucho, esperaba más.",AlejandraT,Google Reviews
+777,La Pizzería Italiana,Manta,2024-10-14,1,Regular,"Pésima experiencia, no volveré jamás.",MariaGourmet,TripAdvisor
+778,Vegan Life,Manta,2024-02-12,2,Excelente,"No me gustó mucho, esperaba más.",MariaGourmet,Google Reviews
+779,La Pizzería Italiana,Manta,2024-02-25,4,Muy bueno,Buen ambiente y platos de calidad.,PedroFan,TripAdvisor
+780,Restaurante El Sabor,Cuenca,2024-11-13,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",CarlaSeafoodFan,Google Reviews
+781,Mariscos del Pacífico,Cuenca,2024-10-17,1,No me gustó,"Pésima experiencia, no volveré jamás.",AndresCoffeeLover,Google Reviews
+782,El Rincón Mexicano,Riobamba,2025-01-16,3,No me gustó,"Servicio promedio, esperaba algo más.",PabloEats,TripAdvisor
+783,Mariscos del Pacífico,Riobamba,2024-03-31,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",PabloEats,Yelp
+784,La Parrilla de Pepe,Ambato,2024-06-05,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",CarlaSeafoodFan,TripAdvisor
+785,Café Andino,Manta,2024-03-23,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",MariaGourmet,Google Reviews
+786,El Rincón Mexicano,Ambato,2024-12-01,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",DanielaTraveler,Google Reviews
+787,Asadero Don Pedro,Guayaquil,2024-05-12,5,Excelente,La comida es deliciosa y el servicio excelente.,CarlaSeafoodFan,TripAdvisor
+788,Asadero Don Pedro,Guayaquil,2024-02-13,1,No me gustó,Esperaba mucho más y fue una decepción total.,LuisCocinero,Google Reviews
+789,Vegan Life,Loja,2024-03-14,3,Regular,"La comida estaba bien, pero nada especial.",DanielaTraveler,Google Reviews
+790,Restaurante El Sabor,Guayaquil,2024-09-15,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",CarlaSeafoodFan,Yelp
+791,Sushi Express,Ibarra,2024-03-04,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",AndresCoffeeLover,Google Reviews
+792,Comida Típica Quiteña,Ibarra,2024-11-13,2,Regular,"No me gustó mucho, esperaba más.",MariaGourmet,Yelp
+793,La Pizzería Italiana,Ambato,2024-05-18,3,Regular,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,Google Reviews
+794,El Rincón Mexicano,Quito,2024-12-30,1,Regular,Comida horrible y atención pésima.,JuanPerez123,Google Reviews
+795,Vegan Life,Quito,2024-09-04,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",PabloEats,TripAdvisor
+796,Vegan Life,Cuenca,2024-09-28,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",JuanPerez123,Google Reviews
+797,La Pizzería Italiana,Ambato,2025-01-09,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",MariaGourmet,Google Reviews
+798,El Rincón Mexicano,Manta,2024-10-21,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",DanielaTraveler,TripAdvisor
+799,Restaurante El Sabor,Esmeraldas,2024-12-22,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",FoodieEcuador,Google Reviews
+800,Mariscos del Pacífico,Esmeraldas,2025-01-29,1,Excelente,Esperaba mucho más y fue una decepción total.,FoodieEcuador,Yelp
+801,La Pizzería Italiana,Riobamba,2024-04-03,1,No me gustó,Comida horrible y atención pésima.,CarlaSeafoodFan,TripAdvisor
+802,Sushi Express,Esmeraldas,2024-08-06,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",PedroFan,TripAdvisor
+803,La Pizzería Italiana,Cuenca,2024-08-03,5,Regular,La comida es deliciosa y el servicio excelente.,DanielaTraveler,Yelp
+804,La Parrilla de Pepe,Machala,2025-01-10,1,Excelente,Esperaba mucho más y fue una decepción total.,JuanPerez123,TripAdvisor
+805,La Pizzería Italiana,Cuenca,2025-01-10,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",AlejandraT,Google Reviews
+806,El Rincón Mexicano,Cuenca,2024-10-05,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PabloEats,Google Reviews
+807,Mariscos del Pacífico,Riobamba,2024-04-27,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",PabloEats,TripAdvisor
+808,La Parrilla de Pepe,Ambato,2024-05-21,2,Excelente,Servicio lento y comida regular.,LuisCocinero,Google Reviews
+809,Mariscos del Pacífico,Manta,2024-11-03,1,Excelente,Comida horrible y atención pésima.,MariaGourmet,TripAdvisor
+810,Vegan Life,Loja,2025-01-16,2,Regular,"No me gustó mucho, esperaba más.",JuanPerez123,Google Reviews
+811,La Parrilla de Pepe,Riobamba,2024-09-01,5,No me gustó,La comida es deliciosa y el servicio excelente.,FoodieEcuador,TripAdvisor
+812,El Rincón Mexicano,Riobamba,2024-03-22,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",LuisCocinero,TripAdvisor
+813,Mariscos del Pacífico,Machala,2024-02-17,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,Yelp
+814,Asadero Don Pedro,Ibarra,2024-05-02,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",AlejandraT,Google Reviews
+815,Asadero Don Pedro,Ambato,2024-12-15,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",DanielaTraveler,TripAdvisor
+816,Sushi Express,Cuenca,2024-03-14,2,No me gustó,La relación calidad-precio no es buena.,PabloEats,Yelp
+817,Sushi Express,Ibarra,2024-08-22,2,Pésima experiencia,Servicio lento y comida regular.,CarlaSeafoodFan,Google Reviews
+818,Vegan Life,Ambato,2024-02-23,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",LuisCocinero,Yelp
+819,El Rincón Mexicano,Machala,2024-07-28,1,Muy bueno,Esperaba mucho más y fue una decepción total.,JuanPerez123,Google Reviews
+820,Restaurante El Sabor,Cuenca,2024-06-21,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,Yelp
+821,Restaurante El Sabor,Guayaquil,2024-08-15,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",PedroFan,Yelp
+822,Sushi Express,Guayaquil,2025-01-22,2,Regular,Servicio lento y comida regular.,FoodieEcuador,Yelp
+823,Restaurante El Sabor,Ibarra,2024-11-09,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,CarlaSeafoodFan,Google Reviews
+824,La Pizzería Italiana,Riobamba,2024-09-08,2,Excelente,Servicio lento y comida regular.,JuanPerez123,Yelp
+825,La Parrilla de Pepe,Ibarra,2024-09-11,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",CarlaSeafoodFan,Google Reviews
+826,Asadero Don Pedro,Manta,2024-07-08,2,Excelente,"No me gustó mucho, esperaba más.",DanielaTraveler,Google Reviews
+827,Mariscos del Pacífico,Cuenca,2024-10-27,5,Pésima experiencia,"Altamente recomendado, volveré pronto.",MariaGourmet,TripAdvisor
+828,La Pizzería Italiana,Esmeraldas,2024-11-26,1,Regular,Comida horrible y atención pésima.,JuanPerez123,TripAdvisor
+829,Café Andino,Machala,2024-07-04,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,LuisCocinero,Google Reviews
+830,La Parrilla de Pepe,Esmeraldas,2024-12-18,1,Excelente,Comida horrible y atención pésima.,JuanPerez123,Google Reviews
+831,Sushi Express,Esmeraldas,2024-06-17,2,Regular,Servicio lento y comida regular.,AndresCoffeeLover,Yelp
+832,La Pizzería Italiana,Esmeraldas,2024-07-23,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,Yelp
+833,Restaurante El Sabor,Cuenca,2024-05-07,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,TripAdvisor
+834,La Parrilla de Pepe,Guayaquil,2024-08-09,1,Excelente,Esperaba mucho más y fue una decepción total.,JuanPerez123,Yelp
+835,Mariscos del Pacífico,Cuenca,2024-03-02,1,Regular,Esperaba mucho más y fue una decepción total.,AndresCoffeeLover,Yelp
+836,Mariscos del Pacífico,Quito,2024-11-03,1,Pésima experiencia,Esperaba mucho más y fue una decepción total.,PedroFan,Google Reviews
+837,Comida Típica Quiteña,Machala,2024-12-14,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,CarlaSeafoodFan,TripAdvisor
+838,Vegan Life,Esmeraldas,2024-09-13,3,Excelente,"La comida estaba bien, pero nada especial.",MariaGourmet,TripAdvisor
+839,Café Andino,Esmeraldas,2024-11-22,1,Muy bueno,"Pésima experiencia, no volveré jamás.",CarlaSeafoodFan,Google Reviews
+840,Café Andino,Loja,2024-09-06,5,Regular,"Altamente recomendado, volveré pronto.",JuanPerez123,Yelp
+841,Asadero Don Pedro,Loja,2025-01-09,1,Muy bueno,Comida horrible y atención pésima.,MariaGourmet,TripAdvisor
+842,Mariscos del Pacífico,Ambato,2024-11-17,4,Regular,Buen ambiente y platos de calidad.,FoodieEcuador,Yelp
+843,Sushi Express,Loja,2024-09-03,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",JuanPerez123,Yelp
+844,Sushi Express,Quito,2024-12-16,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",CarlaSeafoodFan,Google Reviews
+845,Mariscos del Pacífico,Ibarra,2025-02-01,1,Muy bueno,"Pésima experiencia, no volveré jamás.",JuanPerez123,Yelp
+846,Asadero Don Pedro,Cuenca,2024-05-25,5,Excelente,"Altamente recomendado, volveré pronto.",AndresCoffeeLover,Yelp
+847,Sushi Express,Riobamba,2024-11-10,2,Excelente,Servicio lento y comida regular.,JuanPerez123,TripAdvisor
+848,Comida Típica Quiteña,Manta,2024-09-23,1,Regular,Comida horrible y atención pésima.,LuisCocinero,Yelp
+849,Vegan Life,Machala,2024-10-08,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",PabloEats,Google Reviews
+850,Vegan Life,Ibarra,2024-02-17,2,Excelente,Servicio lento y comida regular.,MariaGourmet,Yelp
+851,Sushi Express,Quito,2025-01-17,1,Excelente,"Pésima experiencia, no volveré jamás.",DanielaTraveler,Yelp
+852,La Parrilla de Pepe,Cuenca,2024-12-23,5,Excelente,La comida es deliciosa y el servicio excelente.,DanielaTraveler,Google Reviews
+853,Restaurante El Sabor,Loja,2024-02-23,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,Google Reviews
+854,Mariscos del Pacífico,Ambato,2024-02-17,1,No me gustó,"Pésima experiencia, no volveré jamás.",PedroFan,Yelp
+855,Asadero Don Pedro,Machala,2024-12-11,2,Regular,La relación calidad-precio no es buena.,FoodieEcuador,TripAdvisor
+856,La Pizzería Italiana,Esmeraldas,2024-10-02,3,Regular,"Servicio promedio, esperaba algo más.",PabloEats,Google Reviews
+857,La Parrilla de Pepe,Guayaquil,2025-01-01,1,Pésima experiencia,Comida horrible y atención pésima.,FoodieEcuador,Google Reviews
+858,El Rincón Mexicano,Riobamba,2024-08-30,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",LuisCocinero,Google Reviews
+859,El Rincón Mexicano,Quito,2024-06-05,4,Pésima experiencia,Buen ambiente y platos de calidad.,AlejandraT,Yelp
+860,Café Andino,Loja,2024-07-05,4,Muy bueno,"Me gustó mucho, aunque hubo algo de demora.",AndresCoffeeLover,Yelp
+861,Comida Típica Quiteña,Quito,2024-11-12,5,Pésima experiencia,La comida es deliciosa y el servicio excelente.,PabloEats,TripAdvisor
+862,Comida Típica Quiteña,Quito,2024-03-05,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PabloEats,TripAdvisor
+863,El Rincón Mexicano,Quito,2024-09-13,4,Muy bueno,Buen ambiente y platos de calidad.,LuisCocinero,Google Reviews
+864,Comida Típica Quiteña,Esmeraldas,2024-07-18,3,Pésima experiencia,"La comida estaba bien, pero nada especial.",CarlaSeafoodFan,Google Reviews
+865,Asadero Don Pedro,Manta,2024-09-10,3,No me gustó,"La comida estaba bien, pero nada especial.",LuisCocinero,Yelp
+866,Comida Típica Quiteña,Cuenca,2025-01-03,1,No me gustó,Esperaba mucho más y fue una decepción total.,CarlaSeafoodFan,Yelp
+867,Sushi Express,Guayaquil,2025-01-25,1,Regular,"Pésima experiencia, no volveré jamás.",DanielaTraveler,Google Reviews
+868,Comida Típica Quiteña,Riobamba,2024-07-14,2,Regular,"No me gustó mucho, esperaba más.",LuisCocinero,TripAdvisor
+869,Asadero Don Pedro,Quito,2024-02-19,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,Yelp
+870,La Parrilla de Pepe,Esmeraldas,2024-05-21,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",PedroFan,Google Reviews
+871,Asadero Don Pedro,Loja,2024-07-02,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",JuanPerez123,Google Reviews
+872,Mariscos del Pacífico,Ibarra,2024-03-15,1,Muy bueno,"Pésima experiencia, no volveré jamás.",AndresCoffeeLover,Google Reviews
+873,Vegan Life,Quito,2024-11-24,3,Regular,"No estuvo mal, pero tampoco lo recomendaría especialmente.",FoodieEcuador,Google Reviews
+874,La Pizzería Italiana,Manta,2025-01-12,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",DanielaTraveler,TripAdvisor
+875,Comida Típica Quiteña,Machala,2024-05-30,4,Pésima experiencia,"Me gustó mucho, aunque hubo algo de demora.",CarlaSeafoodFan,Google Reviews
+876,Sushi Express,Quito,2024-09-10,2,Muy bueno,"No lo recomendaría, pero tampoco fue terrible.",MariaGourmet,Google Reviews
+877,La Parrilla de Pepe,Riobamba,2024-03-04,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",AndresCoffeeLover,Yelp
+878,La Pizzería Italiana,Machala,2024-06-23,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",JuanPerez123,TripAdvisor
+879,El Rincón Mexicano,Riobamba,2024-08-05,4,Excelente,"Todo estuvo bien, pero podría mejorar un poco.",AndresCoffeeLover,TripAdvisor
+880,La Pizzería Italiana,Manta,2024-09-23,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",CarlaSeafoodFan,Google Reviews
+881,Café Andino,Guayaquil,2024-09-18,4,Muy bueno,"Muy buena comida y servicio, aunque algo costoso.",PedroFan,TripAdvisor
+882,Café Andino,Loja,2024-05-11,1,Regular,Esperaba mucho más y fue una decepción total.,AndresCoffeeLover,Google Reviews
+883,La Pizzería Italiana,Cuenca,2024-06-04,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",JuanPerez123,Yelp
+884,Mariscos del Pacífico,Manta,2024-07-15,1,Muy bueno,Comida horrible y atención pésima.,PabloEats,TripAdvisor
+885,Café Andino,Loja,2024-04-15,2,Pésima experiencia,La relación calidad-precio no es buena.,AndresCoffeeLover,TripAdvisor
+886,Mariscos del Pacífico,Ambato,2025-02-01,1,Regular,Esperaba mucho más y fue una decepción total.,JuanPerez123,Yelp
+887,El Rincón Mexicano,Esmeraldas,2024-12-13,3,Muy bueno,"La comida estaba bien, pero nada especial.",PedroFan,TripAdvisor
+888,Vegan Life,Quito,2024-05-18,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",JuanPerez123,TripAdvisor
+889,Mariscos del Pacífico,Machala,2024-07-30,1,Regular,Esperaba mucho más y fue una decepción total.,JuanPerez123,Yelp
+890,Restaurante El Sabor,Machala,2024-10-15,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",JuanPerez123,TripAdvisor
+891,Asadero Don Pedro,Riobamba,2024-04-09,1,Muy bueno,Comida horrible y atención pésima.,FoodieEcuador,Google Reviews
+892,Vegan Life,Esmeraldas,2024-05-18,3,Pésima experiencia,"No estuvo mal, pero tampoco lo recomendaría especialmente.",LuisCocinero,Google Reviews
+893,Asadero Don Pedro,Ibarra,2024-09-16,5,Muy bueno,"Altamente recomendado, volveré pronto.",AlejandraT,TripAdvisor
+894,Restaurante El Sabor,Guayaquil,2024-09-14,2,Pésima experiencia,Servicio lento y comida regular.,FoodieEcuador,TripAdvisor
+895,Asadero Don Pedro,Manta,2024-03-22,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",JuanPerez123,Yelp
+896,La Parrilla de Pepe,Ambato,2024-11-12,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",CarlaSeafoodFan,Yelp
+897,Café Andino,Cuenca,2024-04-04,4,No me gustó,Buen ambiente y platos de calidad.,CarlaSeafoodFan,Yelp
+898,Café Andino,Cuenca,2024-03-18,2,Regular,La relación calidad-precio no es buena.,AlejandraT,TripAdvisor
+899,Mariscos del Pacífico,Riobamba,2024-12-26,5,No me gustó,El mejor restaurante al que he ido en mucho tiempo.,DanielaTraveler,Yelp
+900,Restaurante El Sabor,Guayaquil,2024-03-26,3,Regular,"La comida estaba bien, pero nada especial.",AndresCoffeeLover,TripAdvisor
+901,Restaurante El Sabor,Ibarra,2024-05-09,1,Muy bueno,"Pésima experiencia, no volveré jamás.",DanielaTraveler,Yelp
+902,El Rincón Mexicano,Guayaquil,2024-07-04,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",PabloEats,TripAdvisor
+903,La Parrilla de Pepe,Ambato,2024-05-06,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",PedroFan,TripAdvisor
+904,Café Andino,Ibarra,2024-05-16,1,No me gustó,Esperaba mucho más y fue una decepción total.,JuanPerez123,Google Reviews
+905,La Pizzería Italiana,Esmeraldas,2024-02-06,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",AlejandraT,Google Reviews
+906,Mariscos del Pacífico,Riobamba,2025-01-23,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",LuisCocinero,TripAdvisor
+907,Café Andino,Quito,2024-11-20,5,Regular,La comida es deliciosa y el servicio excelente.,PedroFan,TripAdvisor
+908,La Pizzería Italiana,Quito,2024-02-14,2,Regular,"No lo recomendaría, pero tampoco fue terrible.",AndresCoffeeLover,Yelp
+909,Sushi Express,Ambato,2024-05-28,1,No me gustó,Esperaba mucho más y fue una decepción total.,LuisCocinero,Google Reviews
+910,Asadero Don Pedro,Machala,2025-01-02,4,Regular,Buen ambiente y platos de calidad.,CarlaSeafoodFan,Google Reviews
+911,Comida Típica Quiteña,Ibarra,2024-07-01,3,Excelente,"No estuvo mal, pero tampoco lo recomendaría especialmente.",AndresCoffeeLover,Yelp
+912,El Rincón Mexicano,Manta,2024-08-27,5,Excelente,"Increíble experiencia, todo estuvo perfecto.",CarlaSeafoodFan,Yelp
+913,Mariscos del Pacífico,Esmeraldas,2024-05-10,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",CarlaSeafoodFan,TripAdvisor
+914,El Rincón Mexicano,Quito,2024-11-14,5,Regular,"Altamente recomendado, volveré pronto.",FoodieEcuador,Yelp
+915,Restaurante El Sabor,Riobamba,2024-05-18,1,No me gustó,"Pésima experiencia, no volveré jamás.",AlejandraT,TripAdvisor
+916,La Pizzería Italiana,Ambato,2025-01-29,2,Pésima experiencia,La relación calidad-precio no es buena.,AndresCoffeeLover,Google Reviews
+917,Mariscos del Pacífico,Esmeraldas,2024-07-10,1,Pésima experiencia,Comida horrible y atención pésima.,AndresCoffeeLover,Google Reviews
+918,Comida Típica Quiteña,Guayaquil,2024-08-28,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",PabloEats,Yelp
+919,La Pizzería Italiana,Cuenca,2024-08-04,2,Pésima experiencia,"No me gustó mucho, esperaba más.",FoodieEcuador,Google Reviews
+920,Café Andino,Quito,2024-11-29,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",FoodieEcuador,Yelp
+921,Café Andino,Loja,2024-05-14,2,Pésima experiencia,La relación calidad-precio no es buena.,LuisCocinero,Yelp
+922,La Pizzería Italiana,Cuenca,2024-03-09,1,Excelente,"No lo recomiendo para nada, muy mala experiencia.",DanielaTraveler,Yelp
+923,La Parrilla de Pepe,Manta,2024-11-04,4,Regular,"Me gustó mucho, aunque hubo algo de demora.",FoodieEcuador,Google Reviews
+924,Vegan Life,Esmeraldas,2024-05-31,1,Excelente,Esperaba mucho más y fue una decepción total.,CarlaSeafoodFan,Yelp
+925,Sushi Express,Quito,2025-01-27,5,Excelente,"Altamente recomendado, volveré pronto.",LuisCocinero,Yelp
+926,La Parrilla de Pepe,Manta,2024-09-28,5,Excelente,"Altamente recomendado, volveré pronto.",PabloEats,Yelp
+927,El Rincón Mexicano,Ambato,2024-06-07,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",FoodieEcuador,Yelp
+928,Asadero Don Pedro,Quito,2024-12-25,1,No me gustó,Esperaba mucho más y fue una decepción total.,AlejandraT,TripAdvisor
+929,La Pizzería Italiana,Esmeraldas,2024-05-10,1,Regular,Esperaba mucho más y fue una decepción total.,LuisCocinero,Google Reviews
+930,Asadero Don Pedro,Machala,2024-02-22,3,No me gustó,"No estuvo mal, pero tampoco lo recomendaría especialmente.",AndresCoffeeLover,Yelp
+931,Sushi Express,Esmeraldas,2024-06-14,5,Regular,La comida es deliciosa y el servicio excelente.,PedroFan,TripAdvisor
+932,Vegan Life,Ambato,2024-05-13,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PabloEats,Yelp
+933,La Pizzería Italiana,Manta,2024-02-18,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",LuisCocinero,TripAdvisor
+934,Mariscos del Pacífico,Ibarra,2025-01-16,3,Excelente,"Un restaurante aceptable, sin destacar demasiado.",FoodieEcuador,Google Reviews
+935,El Rincón Mexicano,Machala,2025-01-13,2,Regular,"No me gustó mucho, esperaba más.",CarlaSeafoodFan,Yelp
+936,Vegan Life,Esmeraldas,2024-03-07,5,No me gustó,"Altamente recomendado, volveré pronto.",AlejandraT,Google Reviews
+937,Restaurante El Sabor,Cuenca,2024-09-18,2,Excelente,Servicio lento y comida regular.,MariaGourmet,TripAdvisor
+938,El Rincón Mexicano,Cuenca,2024-10-15,1,Pésima experiencia,"No lo recomiendo para nada, muy mala experiencia.",PedroFan,Google Reviews
+939,Comida Típica Quiteña,Riobamba,2024-08-27,4,Pésima experiencia,"Muy buena comida y servicio, aunque algo costoso.",PabloEats,Google Reviews
+940,Café Andino,Ambato,2025-02-02,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",CarlaSeafoodFan,Yelp
+941,El Rincón Mexicano,Loja,2024-04-09,2,Regular,La relación calidad-precio no es buena.,PabloEats,TripAdvisor
+942,Mariscos del Pacífico,Ibarra,2024-04-18,3,Pésima experiencia,"Servicio promedio, esperaba algo más.",JuanPerez123,Yelp
+943,Sushi Express,Esmeraldas,2024-07-22,2,Excelente,La relación calidad-precio no es buena.,DanielaTraveler,TripAdvisor
+944,Vegan Life,Riobamba,2025-01-21,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",LuisCocinero,Google Reviews
+945,Sushi Express,Quito,2024-07-08,5,Regular,"Increíble experiencia, todo estuvo perfecto.",PedroFan,TripAdvisor
+946,Café Andino,Loja,2024-03-22,3,Muy bueno,"La comida estaba bien, pero nada especial.",JuanPerez123,TripAdvisor
+947,Asadero Don Pedro,Machala,2024-03-09,5,Muy bueno,"Increíble experiencia, todo estuvo perfecto.",AlejandraT,TripAdvisor
+948,Sushi Express,Esmeraldas,2024-02-13,1,Excelente,Esperaba mucho más y fue una decepción total.,AlejandraT,TripAdvisor
+949,Vegan Life,Machala,2024-05-22,4,Pésima experiencia,"Todo estuvo bien, pero podría mejorar un poco.",LuisCocinero,Yelp
+950,Café Andino,Ibarra,2024-11-20,2,Excelente,La relación calidad-precio no es buena.,DanielaTraveler,TripAdvisor
+951,Restaurante El Sabor,Loja,2024-04-21,4,No me gustó,Buen ambiente y platos de calidad.,AndresCoffeeLover,Google Reviews
+952,La Parrilla de Pepe,Cuenca,2024-09-04,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",PedroFan,TripAdvisor
+953,Sushi Express,Guayaquil,2024-05-19,2,Excelente,"No lo recomendaría, pero tampoco fue terrible.",LuisCocinero,TripAdvisor
+954,Mariscos del Pacífico,Manta,2024-12-28,4,Excelente,"Muy buena comida y servicio, aunque algo costoso.",AndresCoffeeLover,Google Reviews
+955,Asadero Don Pedro,Quito,2024-05-22,3,Regular,"Un restaurante aceptable, sin destacar demasiado.",JuanPerez123,Yelp
+956,Café Andino,Machala,2024-05-22,3,No me gustó,"La comida estaba bien, pero nada especial.",PedroFan,Yelp
+957,Café Andino,Guayaquil,2024-06-16,5,Pésima experiencia,"Increíble experiencia, todo estuvo perfecto.",DanielaTraveler,Yelp
+958,La Pizzería Italiana,Esmeraldas,2024-11-20,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",AndresCoffeeLover,Google Reviews
+959,La Pizzería Italiana,Quito,2024-11-16,4,Excelente,"Me gustó mucho, aunque hubo algo de demora.",DanielaTraveler,Yelp
+960,Restaurante El Sabor,Machala,2024-05-06,2,Regular,"No me gustó mucho, esperaba más.",MariaGourmet,Yelp
+961,La Parrilla de Pepe,Loja,2024-10-14,4,Excelente,Buen ambiente y platos de calidad.,MariaGourmet,Yelp
+962,La Pizzería Italiana,Machala,2024-09-17,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",PedroFan,Google Reviews
+963,El Rincón Mexicano,Esmeraldas,2024-10-26,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",AlejandraT,Yelp
+964,El Rincón Mexicano,Loja,2024-05-21,3,Muy bueno,"Un restaurante aceptable, sin destacar demasiado.",MariaGourmet,Yelp
+965,Restaurante El Sabor,Cuenca,2024-06-30,2,Excelente,"No me gustó mucho, esperaba más.",JuanPerez123,TripAdvisor
+966,La Pizzería Italiana,Riobamba,2024-09-29,2,No me gustó,"No lo recomendaría, pero tampoco fue terrible.",PabloEats,TripAdvisor
+967,La Pizzería Italiana,Manta,2024-06-04,4,No me gustó,Buen ambiente y platos de calidad.,JuanPerez123,Yelp
+968,El Rincón Mexicano,Ibarra,2024-07-28,2,Pésima experiencia,"No me gustó mucho, esperaba más.",PedroFan,Google Reviews
+969,Sushi Express,Machala,2024-07-18,1,Excelente,Esperaba mucho más y fue una decepción total.,AlejandraT,TripAdvisor
+970,La Parrilla de Pepe,Cuenca,2024-08-10,2,Pésima experiencia,Servicio lento y comida regular.,AndresCoffeeLover,Google Reviews
+971,La Pizzería Italiana,Loja,2024-07-02,5,Muy bueno,"Altamente recomendado, volveré pronto.",FoodieEcuador,Yelp
+972,Asadero Don Pedro,Quito,2024-03-31,1,Regular,Comida horrible y atención pésima.,AndresCoffeeLover,Google Reviews
+973,La Pizzería Italiana,Cuenca,2024-12-30,3,Pésima experiencia,"Un restaurante aceptable, sin destacar demasiado.",DanielaTraveler,Yelp
+974,Restaurante El Sabor,Guayaquil,2025-01-07,2,No me gustó,"No me gustó mucho, esperaba más.",DanielaTraveler,TripAdvisor
+975,La Parrilla de Pepe,Esmeraldas,2024-12-30,3,No me gustó,"Un restaurante aceptable, sin destacar demasiado.",AlejandraT,Yelp
+976,La Pizzería Italiana,Ambato,2024-09-27,2,Muy bueno,La relación calidad-precio no es buena.,PedroFan,Google Reviews
+977,Asadero Don Pedro,Esmeraldas,2024-04-16,4,No me gustó,Buen ambiente y platos de calidad.,CarlaSeafoodFan,TripAdvisor
+978,Sushi Express,Guayaquil,2025-01-07,3,Muy bueno,"La comida estaba bien, pero nada especial.",MariaGourmet,TripAdvisor
+979,Vegan Life,Guayaquil,2024-07-23,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",CarlaSeafoodFan,Google Reviews
+980,El Rincón Mexicano,Guayaquil,2024-07-14,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",MariaGourmet,TripAdvisor
+981,Restaurante El Sabor,Ibarra,2024-07-31,5,Muy bueno,"Altamente recomendado, volveré pronto.",FoodieEcuador,Yelp
+982,Vegan Life,Ambato,2024-10-04,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,AlejandraT,Yelp
+983,La Pizzería Italiana,Riobamba,2024-08-31,4,No me gustó,"Muy buena comida y servicio, aunque algo costoso.",AndresCoffeeLover,TripAdvisor
+984,La Pizzería Italiana,Machala,2025-01-25,5,No me gustó,"Altamente recomendado, volveré pronto.",PabloEats,Google Reviews
+985,Mariscos del Pacífico,Riobamba,2024-10-19,4,Muy bueno,"Todo estuvo bien, pero podría mejorar un poco.",PabloEats,TripAdvisor
+986,La Parrilla de Pepe,Manta,2024-05-26,3,Muy bueno,"No estuvo mal, pero tampoco lo recomendaría especialmente.",PedroFan,TripAdvisor
+987,Mariscos del Pacífico,Loja,2024-06-11,3,Regular,"La comida estaba bien, pero nada especial.",LuisCocinero,TripAdvisor
+988,Café Andino,Riobamba,2024-12-14,2,Excelente,La relación calidad-precio no es buena.,MariaGourmet,Yelp
+989,Comida Típica Quiteña,Quito,2024-09-26,1,No me gustó,"No lo recomiendo para nada, muy mala experiencia.",JuanPerez123,Yelp
+990,Comida Típica Quiteña,Quito,2024-02-12,4,Regular,"Todo estuvo bien, pero podría mejorar un poco.",DanielaTraveler,TripAdvisor
+991,Café Andino,Riobamba,2024-04-13,5,Muy bueno,El mejor restaurante al que he ido en mucho tiempo.,AndresCoffeeLover,TripAdvisor
+992,Vegan Life,Esmeraldas,2024-02-04,1,Pésima experiencia,"Pésima experiencia, no volveré jamás.",JuanPerez123,TripAdvisor
+993,Café Andino,Machala,2025-01-13,2,Pésima experiencia,La relación calidad-precio no es buena.,PabloEats,Yelp
+994,Asadero Don Pedro,Machala,2024-02-06,5,No me gustó,"Increíble experiencia, todo estuvo perfecto.",AndresCoffeeLover,Google Reviews
+995,Café Andino,Quito,2024-04-05,4,Regular,"Muy buena comida y servicio, aunque algo costoso.",FoodieEcuador,Yelp
+996,Comida Típica Quiteña,Esmeraldas,2024-10-07,1,Muy bueno,"Pésima experiencia, no volveré jamás.",PabloEats,Google Reviews
+997,Café Andino,Esmeraldas,2024-03-05,5,Pésima experiencia,El mejor restaurante al que he ido en mucho tiempo.,JuanPerez123,Google Reviews
+998,Vegan Life,Loja,2024-02-09,2,No me gustó,La relación calidad-precio no es buena.,FoodieEcuador,Google Reviews
+999,Restaurante El Sabor,Esmeraldas,2024-02-27,4,Regular,Buen ambiente y platos de calidad.,JuanPerez123,Yelp
+1000,Café Andino,Quito,2024-08-22,2,Pésima experiencia,"No lo recomendaría, pero tampoco fue terrible.",AlejandraT,Yelp
