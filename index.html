@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reseñas de Restaurantes en Ecuador</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            user-select: none; /* Deshabilita la selección de texto */
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            color: #333;
+        }
+
+        tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        .rating {
+            color: #FFD700;
+            font-size: 1.2em;
+        }
+
+        .rating span {
+            color: #333;
+        }
+
+        .review-text {
+            font-style: italic;
+            color: #666;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Reseñas de Restaurantes en Ecuador</h1>
+        <p>Consulta las opiniones de los mejores restaurantes del país.</p>
+    </header>
+
+    <div class="container">
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Restaurante</th>
+                    <th>Ubicación</th>
+                    <th>Fecha</th>
+                    <th>Calificación</th>
+                    <th>Título</th>
+                    <th>Reseña</th>
+                    <th>Usuario</th>
+                    <th>Fuente</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Los datos se insertarán aquí -->
+            </tbody>
+        </table>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Julio Rosero.</p>
+    </footer>
+
+    <script>
+        window.onload = function() {
+            const csvFile = 'restaurantes_ecuador_con_resenas.csv';
+
+            Papa.parse(csvFile, {
+                download: true, 
+                header: true,
+                complete: function(results) {
+                    var data = results.data;
+                    var tableBody = document.getElementById('data-table').getElementsByTagName('tbody')[0];
+                    tableBody.innerHTML = ''; 
+
+                    data.forEach(function(row) {
+                        var newRow = tableBody.insertRow();
+                        
+                        // Insertar ID
+                        var newCell = newRow.insertCell();
+                        newCell.textContent = row['ID de Reseña'];
+
+                        // Insertar Nombre de Restaurante
+                        newCell = newRow.insertCell();
+                        newCell.textContent = row['Nombre del Restaurante'];
+
+                        // Insertar Ubicación
+                        newCell = newRow.insertCell();
+                        newCell.textContent = row['Ubicación'];
+
+                        // Insertar Fecha
+                        newCell = newRow.insertCell();
+                        newCell.textContent = row['Fecha de la Reseña'];
+
+                        // Insertar Calificación
+                        newCell = newRow.insertCell();
+                        var rating = row['Calificación'];
+                        var ratingHTML = '<span class="rating">';
+                        for (var i = 0; i < 5; i++) {
+                            ratingHTML += (i < rating ? '★' : '☆');
+                        }
+                        ratingHTML += '</span>';
+                        newCell.innerHTML = ratingHTML;
+
+                        // Insertar Título de la Reseña
+                        newCell = newRow.insertCell();
+                        newCell.textContent = row['Título de la Reseña'];
+
+                        // Insertar Contenido de la Reseña
+                        newCell = newRow.insertCell();
+                        newCell.innerHTML = '<span class="review-text">' + row['Contenido de la Reseña'] + '</span>';
+
+                        // Insertar Usuario
+                        newCell = newRow.insertCell();
+                        newCell.textContent = row['Usuario'];
+
+                        // Insertar Fuente
+                        newCell = newRow.insertCell();
+                        newCell.textContent = row['Fuente'];
+                    });
+                }
+            });
+        }
+    </script>
+</body>
+</html>
